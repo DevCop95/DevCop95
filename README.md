@@ -29,32 +29,28 @@ Current Project:
 
 <p align="center">
 
-<a target="_blank" href="https://linkedin.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
+<a href="https://linkedin.com" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;
-
-<a target="_blank" href="https://twitter.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30"/>
+<a href="https://twitter.com" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="35"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;
-
-<a target="_blank" href="https://hackerrank.com">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" width="30"/>
+<a href="https://hackerrank.com" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" width="35"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;
-
-<a target="_blank" href="https://leetcode.com">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="30"/>
+<a href="https://leetcode.com" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="35"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;
-
-<a target="_blank" href="https://github.com/DevCop95">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="23"/>
+<a href="https://github.com/DevCop95" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="35"/>
 </a>
 
 </p>
