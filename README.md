@@ -1,24 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=DevCop95&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%26%20DevOps%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
+# 👾 DevCop95
 
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=500&lines=Hey+there!+I'm+DevCop95+👋;Software+Developer+%26+DevOps;Building+things+from+Colombia+🇨🇴;Always+learning%2C+always+shipping" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=480&lines=Software+Developer+%26+DevOps+%F0%9F%9A%80;Building+from+Colombia+%F0%9F%87%A8%F0%9F%87%B4;Always+learning%2C+always+shipping+%E2%9A%A1" alt="Typing SVG"/>
 
 </div>
 
 ---
 
 <details open>
-<summary><b>🪔 Light the bonfire</b></summary>
+<summary><b>🔥 Light the bonfire</b></summary>
 
 <br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="160"/>
+
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="150"/>
 
 ### 🔥 B O N F I R E &nbsp; L I T !
 
@@ -64,12 +61,6 @@ status     : Always shipping ⚡
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
 </div>
 
 ---
@@ -78,33 +69,29 @@ status     : Always shipping ⚡
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=DevCop95&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github"/>
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCop95&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DevCop95&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" />
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCop95&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevCop95&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" alt="streak"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevCop95&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff" width="95%"/>
+<img src="https://streak-stats.demolab.com?user=DevCop95&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DevCop95&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=DevCop95&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4" />
 
 </div>
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Connect
 
 <div align="center">
 
@@ -115,16 +102,14 @@ status     : Always shipping ⚡
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
 
+<br>
+
+![Profile views](https://komarev.com/ghpvc/?username=DevCop95&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS)
+
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=DevCop95&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
+<sub>⭐️ From <a href="https://github.com/DevCop95">DevCop95</a> · Colombia 🇨🇴</sub>
 </div>
