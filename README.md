@@ -2,9 +2,7 @@
 
 <div align="center">
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Yared+Henriquez+·+DevCop95;Full-Stack+Dev+%7C+Salesforce;Python+%26+AI+Engineer+🐍;Máster+IA+—+Univ.+de+Barcelona;Cartagena+de+Indias+🇨🇴" alt="header"/>
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Yared+Henriquez+·+DevCop95;Full-Stack+Dev+%7C+Salesforce;Python+%26+AI+Engineer+🐍;Máster+IA+—+Univ.+de+Barcelona;Cartagena+de+Indias+🇨🇴" alt="Typing SVG"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yaredhenriquez)
 [![Website](https://img.shields.io/badge/yared.ai-a78bfa?style=flat-square&logo=googlechrome&logoColor=white)](https://yared.ai)
