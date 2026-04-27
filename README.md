@@ -2,10 +2,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Yared+Henriquez+·+DevCop95;Full-Stack+Dev+%7C+Salesforce;Python+%26+AI+Engineer+🐍;Máster+IA+—+Univ.+de+Barcelona;Cartagena+de+Indias+🇨🇴" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Yared+Henriquez+%C2%B7+DevCop95;Full-Stack+Dev+%7C+Salesforce;Python+%26+AI+Engineer+%F0%9F%90%8D;M%C3%A1ster+IA+%E2%80%94+Univ.+de+Barcelona;Cartagena+de+Indias+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yaredhenriquez)
-[![Website](https://img.shields.io/badge/yared.ai-a78bfa?style=flat-square&logo=googlechrome&logoColor=white)](https://yared.ai)
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DevCop95)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://hackerrank.com/DevCop95)
 [![Profile views](https://komarev.com/ghpvc/?username=DevCop95&style=flat-square&color=a78bfa&label=visitas)](https://github.com/DevCop95)
@@ -110,7 +109,6 @@ availability : Abierto a proyectos freelance ✅
 <div align="center">
 
 [![pullgoscript](https://github-readme-stats.vercel.app/api/pin/?username=DevCop95&repo=pullgoscript&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/DevCop95/pullgoscript)
-&nbsp;
 [![cYHBeriteratus](https://github-readme-stats.vercel.app/api/pin/?username=DevCop95&repo=cYHBeriteratus&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/DevCop95/cYHBeriteratus)
 
 </div>
@@ -170,6 +168,7 @@ availability : Abierto a proyectos freelance ✅
 ## 🌐 Conecta conmigo
 
 <div align="center">
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevCop95)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
