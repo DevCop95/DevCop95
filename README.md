@@ -29,6 +29,7 @@ name         : Yared Henriquez Blanquicett
 alias        : DevCop95
 location     : Cartagena de Indias, Colombia 🇨🇴
 website      : yared.ai
+portfolio: devopsctg.github.io/Responsive-PortfolioYHB
 role         : Full-Stack Dev · Salesforce Engineer · AI Student
 education    : Máster en IA — Universitat de Barcelona (en curso)
 focus        : Python · LLMs · Automatización · Ciberseguridad
@@ -172,6 +173,7 @@ availability : Abierto a proyectos freelance ✅
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevCop95)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-devopsctg.github.io-a78bfa?style=for-the-badge&logo=githubpages&logoColor=white)](https://devopsctg.github.io/Responsive-PortfolioYHB/)
 
 <br>
 
