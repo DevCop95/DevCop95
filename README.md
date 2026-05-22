@@ -25,9 +25,9 @@
 <br>
 
 ```yaml
-name         : Yared Henriquez Blanquicett
+name         : Yared HB
 alias        : DevCop95
-location     : Cartagena de Indias, Colombia 🇨🇴
+location     : Colombia 🇨🇴
 portfolio:   : devopsctg.github.io/Responsive-PortfolioYHB
 role         : Full-Stack Dev · Salesforce Engineer · AI Student
 education    : Máster en IA — Universitat de Barcelona (en curso)
