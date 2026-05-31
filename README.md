@@ -109,7 +109,7 @@ availability : Abierto a proyectos freelance ✅
 <div align="center">
 
 [![pullgoscript](https://github-readme-stats.vercel.app/api/pin/?username=DevCop95&repo=pullgoscript&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/DevCop95/pullgoscript)
-[![cYHBeriteratus](https://github-readme-stats.vercel.app/api/pin/?username=DevCop95&repo=cYHBeriteratus&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/DevCop95/cYHBeriteratus)
+[![cYHBer](https://github-readme-stats.vercel.app/api/pin/?username=DevCop95&repo=cYHBer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/DevCop95/cYHBer)
 
 </div>
 
@@ -118,7 +118,7 @@ availability : Abierto a proyectos freelance ✅
 | Proyecto | Stack | Descripción |
 |---|---|---|
 | 🕹️ [**pullgoscript**](https://github.com/DevCop95/pullgoscript) | `Go` `Windows` `C2` | Framework C2 ligero especializado en Windows para Red Teaming |
-| 🛡️ [**cYHBeriteratus**](https://github.com/DevCop95/cYHBeriteratus) | `C2` `Security` | Herramienta de ciberseguridad ofensiva / análisis de vulnerabilidades |
+| 🛡️ [**cYHBer**](https://github.com/DevCop95/cYHBer) | `C2` `Security` | La arquitectura de la evasión semántica |
 
 </div>
 
@@ -139,7 +139,7 @@ availability : Abierto a proyectos freelance ✅
 
 | Período | Título | Institución |
 |---|---|---|
-| 2023 — hoy | 🤖 Máster en Inteligencia Artificial | Universitat de Barcelona |
+| 2024 — hoy | 🤖 Máster en Inteligencia Artificial | Universitat de Barcelona |
 | 2017 — 2021 | 🎓 Ingeniería en Sistemas & Computación | Universidad Tecnológica de Bolívar |
 | 2013 — 2017 | 💡 Tecnología en Sistemas & Computación | Universidad Tecnológica de Bolívar |
 
