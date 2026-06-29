@@ -28,7 +28,7 @@
 name         : Yared HB
 alias        : DevCop95
 location     : Colombia 🇨🇴
-portfolio:   : devopsctg.github.io/Responsive-PortfolioYHB
+portfolio:   : https://devyared.dpdns.org/
 role         : Full-Stack Dev · Salesforce Engineer · AI Student
 education    : Máster en IA — Universitat de Barcelona (en curso)
 focus        : Python · LLMs · Automatización · Ciberseguridad
