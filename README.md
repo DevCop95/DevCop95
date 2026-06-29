@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Yared+Henriquez+%C2%B7+DevCop95;Full-Stack+Dev+%7C+Salesforce;Python+%26+AI+Engineer+%F0%9F%90%8D;M%C3%A1ster+IA+%E2%80%94+Univ.+de+Barcelona;Cartagena+de+Indias+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Yared+Henriquez+%C2%B7+DevCop95;Full-Stack+Dev+%7C+Salesforce;Python+%26+AI+Engineer+%F0%9F%90%8D;M%C3%A1ster+IA+%E2%80%94+Univ.+de+Barcelona+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG"/>
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DevCop95)
