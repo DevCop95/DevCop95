@@ -108,8 +108,9 @@ availability : Open to freelance projects ✅
 
 <div align="center">
 
-[![bugbounty-lab101](https://github-readme-stats.vercel.app/api/pin/?username=DevCop95&repo=bugbounty-lab101&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/DevCop95/bugbounty-lab101)
+[![pullgoscript](https://github-readme-stats.vercel.app/api/pin/?username=DevCop95&repo=pullgoscript&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/DevCop95/pullgoscript)
 [![cYHBer](https://github-readme-stats.vercel.app/api/pin/?username=DevCop95&repo=cYHBer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/DevCop95/cYHBer)
+[![bugbounty-lab101](https://github-readme-stats.vercel.app/api/pin/?username=DevCop95&repo=bugbounty-lab101&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/DevCop95/bugbounty-lab101)
 
 </div>
 
@@ -182,7 +183,7 @@ availability : Open to freelance projects ✅
 
 <br>
 
-<sub>⭐️ From <a href="https://github.com/DevCop95">DevCop95</a> · Cartagena de Indias, Colombia 🇨🇴</sub>
+<sub>⭐️ From <a href="https://github.com/DevCop95">DevCop95</a> 🇨🇴</sub>
 
 </div>
 
