@@ -2,12 +2,12 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Yared+Henriquez+%C2%B7+DevCop95;Full-Stack+Dev+%7C+Salesforce;Python+%26+AI+Engineer+%F0%9F%90%8D;M%C3%A1ster+IA+%E2%80%94+Univ.+de+Barcelona+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Yared+Henriquez+%C2%B7+DevCop95;Full-Stack+Dev+%7C+Salesforce;Python+%26+AI+Engineer+%F0%9F%90%8D;Master+in+AI+%E2%80%94+Univ.+de+Barcelona+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG"/>
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DevCop95)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://hackerrank.com/DevCop95)
-[![Profile views](https://komarev.com/ghpvc/?username=DevCop95&style=flat-square&color=a78bfa&label=visitas)](https://github.com/DevCop95)
+[![Profile views](https://komarev.com/ghpvc/?username=DevCop95&style=flat-square&color=a78bfa&label=views)](https://github.com/DevCop95)
 
 </div>
 
@@ -28,26 +28,26 @@
 name         : Yared HB
 alias        : DevCop95
 location     : Colombia 🇨🇴
-portfolio:   : https://devyared.dpdns.org/
+portfolio    : https://devyared.dpdns.org/
 role         : Full-Stack Dev · Salesforce Engineer · AI Student
-education    : Máster en IA — Universitat de Barcelona (en curso)
-focus        : Python · LLMs · Automatización · Ciberseguridad
+education    : Master in AI — Universitat de Barcelona (in progress)
+focus        : Python · LLMs · Automation · Cybersecurity
 salesforce   : Trailhead Ranger 🏆
 status       : Always shipping ⚡
-availability : Abierto a proyectos freelance ✅
+availability : Open to freelance projects ✅
 ```
 
 </details>
 
 ---
 
-## ⚡ Ahora mismo estoy…
+## ⚡ Right now I'm…
 
-- 🤖 Cursando el **Máster en IA** en la Universitat de Barcelona
-- 🔭 Explorando **LLMs, RAG y AI Agents** con LangChain y Python
-- 🛡️ Desarrollando herramientas de **ciberseguridad ofensiva** en Go y Python
-- 🛠️ Construyendo automatizaciones empresariales para clientes **Salesforce**
-- 🚀 Abierto a colaborar en proyectos de **IA aplicada** y **Red Teaming**
+- 🤖 Pursuing a **Master's in AI** at the Universitat de Barcelona
+- 🔭 Exploring **LLMs, RAG and AI Agents** with LangChain and Python
+- 🛡️ Building **offensive cybersecurity** tools in Go and Python
+- 🛠️ Creating enterprise automations for **Salesforce** clients
+- 🚀 Open to collaborating on **Applied AI** and **Red Teaming** projects
 
 ---
 
@@ -55,7 +55,7 @@ availability : Abierto a proyectos freelance ✅
 
 <div align="center">
 
-**Lenguajes**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -64,7 +64,7 @@ availability : Abierto a proyectos freelance ✅
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**IA & Data**
+**AI & Data**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -72,7 +72,7 @@ availability : Abierto a proyectos freelance ✅
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-**Ciberseguridad**
+**Cybersecurity**
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -92,7 +92,7 @@ availability : Abierto a proyectos freelance ✅
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Plataformas & DevOps**
+**Platforms & DevOps**
 
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -104,44 +104,46 @@ availability : Abierto a proyectos freelance ✅
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Featured Projects
 
 <div align="center">
 
-[![pullgoscript](https://github-readme-stats.vercel.app/api/pin/?username=DevCop95&repo=pullgoscript&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/DevCop95/pullgoscript)
+[![bugbounty-lab101](https://github-readme-stats.vercel.app/api/pin/?username=DevCop95&repo=bugbounty-lab101&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/DevCop95/bugbounty-lab101)
 [![cYHBer](https://github-readme-stats.vercel.app/api/pin/?username=DevCop95&repo=cYHBer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/DevCop95/cYHBer)
 
 </div>
 
 <div align="center">
 
-| Proyecto | Stack | Descripción |
+| Project | Stack | Description |
 |---|---|---|
-| 🕹️ [**pullgoscript**](https://github.com/DevCop95/pullgoscript) | `Go` `Windows` `C2` | Framework C2 ligero especializado en Windows para Red Teaming |
-| 🛡️ [**cYHBer**](https://github.com/DevCop95/cYHBer) | `C2` `Security` | La arquitectura de la evasión semántica |
+| 🏹 [**bugbounty-lab101**](https://github.com/DevCop95/bugbounty-lab101) | `Shell` `Recon` `HackerOne` | Complete bug bounty workspace with 400+ tools, automated recon/vuln pipeline and scope enforcement |
+| 🛡️ [**cYHBer**](https://github.com/DevCop95/cYHBer) | `Python` `LLM` `Security` | Architecture for semantic evasion against AI safety filters |
+| 🕹️ [**pullgoscript**](https://github.com/DevCop95/pullgoscript) | `Go` `Windows` `C2` | Lightweight C2 framework for Windows Red Team post-exploitation |
+| 🤖 [**cyhber-deploy**](https://github.com/DevCop95/cyhber-deploy) | `Python` `Claude` `Gemini` | Security skill layer for Claude, Codex and Gemini AI agents |
 
 </div>
 
 ---
 
-## 💼 Experiencia
+## 💼 Experience
 
-| Período | Rol | Empresa |
+| Period | Role | Company |
 |---|---|---|
-| 2022 — 2025 | 🏢 Director de Tecnología | EXIA S.A.S — Cartagena, CO |
-| 2021 — 2024 | 💻 Developer Semi Senior | Google |
-| 2020 — hoy | 🚀 Freelance · Salesforce & Dev | Cartagena, CO |
-| 2015 — 2016 | 📋 Auxiliar Administrativo | Proyecto CIER NORTE |
+| 2022 — 2025 | 🏢 Chief Technology Officer | EXIA S.A.S — Cartagena, CO |
+| 2021 — 2024 | 💻 Semi-Senior Developer | Google |
+| 2020 — present | 🚀 Freelance · Salesforce & Dev | Cartagena, CO |
+| 2015 — 2016 | 📋 Administrative Assistant | Proyecto CIER NORTE |
 
 ---
 
-## 🎓 Educación
+## 🎓 Education
 
-| Período | Título | Institución |
+| Period | Degree | Institution |
 |---|---|---|
-| 2024 — hoy | 🤖 Máster en Inteligencia Artificial | Universitat de Barcelona |
-| 2017 — 2021 | 🎓 Ingeniería en Sistemas & Computación | Universidad Tecnológica de Bolívar |
-| 2013 — 2017 | 💡 Tecnología en Sistemas & Computación | Universidad Tecnológica de Bolívar |
+| 2024 — present | 🤖 Master's in Artificial Intelligence | Universitat de Barcelona |
+| 2017 — 2021 | 🎓 Systems & Computer Engineering | Universidad Tecnológica de Bolívar |
+| 2013 — 2017 | 💡 Systems & Computer Technology | Universidad Tecnológica de Bolívar |
 
 ---
 
@@ -165,14 +167,14 @@ availability : Abierto a proyectos freelance ✅
 
 ---
 
-## 🌐 Conecta conmigo
+## 🌐 Connect with me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevCop95)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-devopsctg.github.io-a78bfa?style=for-the-badge&logo=githubpages&logoColor=white)](https://devopsctg.github.io/Responsive-PortfolioYHB/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-devyared.dpdns.org-a78bfa?style=for-the-badge&logo=githubpages&logoColor=white)](https://devyared.dpdns.org/)
 
 <br>
 
