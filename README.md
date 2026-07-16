@@ -1,10 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=a78bfa&height=130&section=header&text=&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=a78bfa&height=140&section=header&text=Yared%20Henriquez&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Engineer%20%C2%B7%20Security%20Researcher&descSize=16&descAlignY=58&animation=fadeIn" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Yared+Henriquez+%C2%B7+DevCop95;Full-Stack+Dev+%7C+Salesforce;Python+%26+AI+Engineer+%F0%9F%90%8D;Master+in+AI+%E2%80%94+Univ.+de+Barcelona+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+%7C+Salesforce+Engineer;Python+%26+AI+Engineer+%F0%9F%90%8D;Offensive+Security+%26+Bug+Bounty+%F0%9F%9B%A1%EF%B8%8F;M.Sc.+in+AI+%E2%80%94+Universitat+de+Barcelona" alt="Typing SVG"/>
 
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-devyared.dpdns.org-a78bfa?style=flat-square&logo=googlechrome&logoColor=white)](https://devyared.dpdns.org/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DevCop95)
 [![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/Dev101x)
 [![X](https://img.shields.io/badge/@Devcop101-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Devcop101)
@@ -14,41 +14,33 @@
 
 ---
 
-<details open>
-<summary><b>🔥 Light the bonfire</b></summary>
-<br>
-<div align="center">
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="120"/>
+## 👋 About me
 
-### 🔥 B O N F I R E &nbsp; L I T !
+Full-Stack Developer and AI Engineer based in **Cartagena, Colombia** 🇨🇴, currently pursuing a **Master's in Artificial Intelligence at the Universitat de Barcelona**. I build production software across the stack, design enterprise automations on **Salesforce**, and research **offensive security** — from LLM-driven tooling to bug-bounty pipelines.
 
-</div>
-<br>
-
-```yaml
-name         : Yared HB
-alias        : DevCop95
-location     : Colombia 🇨🇴
-portfolio    : https://devyared.dpdns.org/
-role         : Full-Stack Dev · Salesforce Engineer · AI Student
-education    : Master in AI — Universitat de Barcelona (in progress)
-focus        : Python · LLMs · Automation · Cybersecurity
-salesforce   : Trailhead Ranger 🏆
-status       : Always shipping ⚡
-availability : Open to freelance projects ✅
-```
-
-</details>
+- 🤖 Working with **LLMs, RAG and AI Agents** (LangChain · Python · OpenAI)
+- 🛡️ Building **offensive security** tooling in **Go** and **Python**
+- 🛠️ Delivering enterprise **Salesforce** automations for clients
+- 🤝 Open to **freelance projects** and collaboration on **Applied AI** & **Red Teaming**
 
 ---
 
-## ⚡ Right now I'm…
+## ⭐ Flagship project
 
-- 🤖 Pursuing a **Master's in AI** at the Universitat de Barcelona
-- 🔭 Exploring **LLMs, RAG and AI Agents** with LangChain and Python
-- 🛡️ Building **offensive cybersecurity** tools in Go and Python
-- 🛠️ Creating enterprise automations for **Salesforce** clients
-- 🚀 Open to collaborating on **Applied AI** and **Red Teaming** projects
+<div align="center">
+
+<a href="https://github.com/DevCop95/bugbounty-lab101">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DevCop95&repo=bugbounty-lab101&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
+</a>
+
+<br>
+
+[![Stars](https://img.shields.io/github/stars/DevCop95/bugbounty-lab101?style=for-the-badge&color=a78bfa&labelColor=0d1117&logo=github)](https://github.com/DevCop95/bugbounty-lab101/stargazers)
+[![Forks](https://img.shields.io/github/forks/DevCop95/bugbounty-lab101?style=for-the-badge&color=494649&labelColor=0d1117&logo=github)](https://github.com/DevCop95/bugbounty-lab101/network/members)
+
+**A complete bug bounty workspace for HackerOne researchers** — scope enforcement, an automated recon/vuln pipeline (400+ tools), report templates, CVE/CWE watchlists and a local VM practice lab. Built for disciplined, ethical hunting.
+
+</div>
 
 ---
 
@@ -63,24 +55,16 @@ availability : Open to freelance projects ✅
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **AI & Data**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-**Cybersecurity**
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 **Frontend**
 
@@ -88,16 +72,21 @@ availability : Open to freelance projects ✅
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Backend**
+**Backend & Data**
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Security**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 **Platforms & DevOps**
 
@@ -111,24 +100,17 @@ availability : Open to freelance projects ✅
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![cYHBer](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DevCop95&repo=cYHBer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/DevCop95/cYHBer)
-[![bugbounty-lab101](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DevCop95&repo=bugbounty-lab101&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/DevCop95/bugbounty-lab101)
-
-</div>
+## 🚀 More projects
 
 <div align="center">
 
 | Project | Stack | Description |
 |---|---|---|
-| 🏹 [**bugbounty-lab101**](https://github.com/DevCop95/bugbounty-lab101) | `Shell` `Recon` `HackerOne` | Complete bug bounty workspace with 400+ tools, automated recon/vuln pipeline and scope enforcement |
-| 🛡️ [**cYHBer**](https://github.com/DevCop95/cYHBer) | `Python` `LLM` `Security` | Architecture for semantic evasion against AI safety filters |
+| 🏹 [**bugbounty-lab101**](https://github.com/DevCop95/bugbounty-lab101) | `Shell` `Recon` `HackerOne` | Complete bug bounty workspace: 400+ tools, automated recon/vuln pipeline and scope enforcement |
+| 🛡️ [**cYHBer**](https://github.com/DevCop95/cYHBer) | `Python` `LLM` `Security` | Research architecture on semantic evasion of AI safety filters |
 | 🕹️ [**pullgoscript**](https://github.com/DevCop95/pullgoscript) | `Go` `Windows` `C2` | Lightweight C2 framework for Windows Red Team post-exploitation |
 | 🤖 [**cyhber-deploy**](https://github.com/DevCop95/cyhber-deploy) | `Python` `Claude` `Gemini` | Security skill layer for Claude, Codex and Gemini AI agents |
-| 🧠 [**cYHBeriteratus**](https://github.com/DevCop95/cYHBeriteratus) | `JavaScript` `LLM` `Local AI` | Uncensored local LLM interface for security engineers — private, filter-free work with abliterated models |
+| 🧠 [**cYHBeriteratus**](https://github.com/DevCop95/cYHBeriteratus) | `JavaScript` `LLM` `Local AI` | Private, filter-free local LLM interface for security engineers |
 
 </div>
 
@@ -175,14 +157,14 @@ availability : Open to freelance projects ✅
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Connect
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-devyared.dpdns.org-a78bfa?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devyared.dpdns.org/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevCop95)
 [![HackerOne](https://img.shields.io/badge/HackerOne-Dev101x-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/Dev101x)
 [![X](https://img.shields.io/badge/X-@Devcop101-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Devcop101)
-[![Portfolio](https://img.shields.io/badge/Portfolio-devyared.dpdns.org-a78bfa?style=for-the-badge&logo=githubpages&logoColor=white)](https://devyared.dpdns.org/)
 
 <br>
 
@@ -190,7 +172,7 @@ availability : Open to freelance projects ✅
 
 <br>
 
-<sub>⭐️ From <a href="https://github.com/DevCop95">DevCop95</a> 🇨🇴</sub>
+<sub>⭐️ From <a href="https://github.com/DevCop95">DevCop95</a> · Cartagena, Colombia 🇨🇴</sub>
 
 </div>
 
