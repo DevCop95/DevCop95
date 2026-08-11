@@ -30,7 +30,7 @@ Full-Stack Developer and AI Engineer based in **Cartagena, Colombia** 🇨🇴, 
 <div align="center">
 
 <a href="https://github.com/DevCop95/bugbounty-lab101">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DevCop95&repo=bugbounty-lab101&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ef4444&icon_color=ef4444&text_color=c9d1d9" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=DevCop95&repo=bugbounty-lab101&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ef4444&icon_color=ef4444&text_color=c9d1d9" />
 </a>
 
 <br>
@@ -104,8 +104,8 @@ Full-Stack Developer and AI Engineer based in **Cartagena, Colombia** 🇨🇴, 
 
 <div align="center">
 
-[![cYHBer](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DevCop95&repo=cYHBer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ef4444&icon_color=ef4444&text_color=c9d1d9)](https://github.com/DevCop95/cYHBer)
-[![bugbounty-lab101](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DevCop95&repo=bugbounty-lab101&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ef4444&icon_color=ef4444&text_color=c9d1d9)](https://github.com/DevCop95/bugbounty-lab101)
+[![cYHBer](https://github-readme-stats-fast.vercel.app/api/pin/?username=DevCop95&repo=cYHBer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ef4444&icon_color=ef4444&text_color=c9d1d9)](https://github.com/DevCop95/cYHBer)
+[![bugbounty-lab101](https://github-readme-stats-fast.vercel.app/api/pin/?username=DevCop95&repo=bugbounty-lab101&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ef4444&icon_color=ef4444&text_color=c9d1d9)](https://github.com/DevCop95/bugbounty-lab101)
 
 </div>
 
@@ -148,13 +148,9 @@ Full-Stack Developer and AI Engineer based in **Cartagena, Colombia** 🇨🇴, 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DevCop95&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ef4444&icon_color=ef4444&text_color=c9d1d9&rank_icon=github" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=DevCop95&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ef4444&icon_color=ef4444&text_color=c9d1d9&rank_icon=github" />
 &nbsp;
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DevCop95&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ef4444&text_color=c9d1d9&langs_count=8" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevCop95&theme=dark&background=0d1117&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&stroke=ef4444&sideLabels=c9d1d9&dates=c9d1d9" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DevCop95&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ef4444&text_color=c9d1d9&langs_count=8" />
 
 <br><br>
 
