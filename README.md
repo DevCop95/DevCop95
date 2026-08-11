@@ -1,14 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=a78bfa&height=140&section=header&text=Yared%20Henriquez&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Engineer%20%C2%B7%20Security%20Researcher&descSize=16&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ef4444&height=140&section=header&text=Yared%20Henriquez&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Engineer%20%C2%B7%20Security%20Researcher&descSize=16&descAlignY=58&animation=fadeIn" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+%7C+Salesforce+Engineer;Python+%26+AI+Engineer+%F0%9F%90%8D;Offensive+Security+%26+Bug+Bounty+%F0%9F%9B%A1%EF%B8%8F;M.Sc.+in+AI+%E2%80%94+Universitat+de+Barcelona" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=EF4444&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+%7C+Salesforce+Engineer;Python+%26+AI+Engineer+%F0%9F%90%8D;Offensive+Security+%26+Bug+Bounty+%F0%9F%9B%A1%EF%B8%8F;M.Sc.+in+AI+%E2%80%94+Universitat+de+Barcelona" alt="Typing SVG"/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-devyared.dpdns.org-a78bfa?style=flat-square&logo=googlechrome&logoColor=white)](https://devyared.dpdns.org/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-devyared.dpdns.org-ef4444?style=flat-square&logo=googlechrome&logoColor=white)](https://devyared.dpdns.org/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DevCop95)
 [![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/Dev101x)
 [![X](https://img.shields.io/badge/@Devcop101-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Devcop101)
-[![Profile views](https://komarev.com/ghpvc/?username=DevCop95&style=flat-square&color=a78bfa&label=views)](https://github.com/DevCop95)
+[![Profile views](https://komarev.com/ghpvc/?username=DevCop95&style=flat-square&color=ef4444&label=views)](https://github.com/DevCop95)
 
 </div>
 
@@ -30,12 +30,12 @@ Full-Stack Developer and AI Engineer based in **Cartagena, Colombia** 🇨🇴, 
 <div align="center">
 
 <a href="https://github.com/DevCop95/bugbounty-lab101">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DevCop95&repo=bugbounty-lab101&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DevCop95&repo=bugbounty-lab101&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ef4444&icon_color=ef4444&text_color=c9d1d9" />
 </a>
 
 <br>
 
-[![Stars](https://img.shields.io/github/stars/DevCop95/bugbounty-lab101?style=for-the-badge&color=a78bfa&labelColor=0d1117&logo=github)](https://github.com/DevCop95/bugbounty-lab101/stargazers)
+[![Stars](https://img.shields.io/github/stars/DevCop95/bugbounty-lab101?style=for-the-badge&color=ef4444&labelColor=0d1117&logo=github)](https://github.com/DevCop95/bugbounty-lab101/stargazers)
 [![Forks](https://img.shields.io/github/forks/DevCop95/bugbounty-lab101?style=for-the-badge&color=494649&labelColor=0d1117&logo=github)](https://github.com/DevCop95/bugbounty-lab101/network/members)
 
 **A complete bug bounty workspace for HackerOne researchers** — scope enforcement, an automated recon/vuln pipeline (400+ tools), report templates, CVE/CWE watchlists and a local VM practice lab. Built for disciplined, ethical hunting.
@@ -100,7 +100,14 @@ Full-Stack Developer and AI Engineer based in **Cartagena, Colombia** 🇨🇴, 
 
 ---
 
-## 🚀 More projects
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![cYHBer](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DevCop95&repo=cYHBer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ef4444&icon_color=ef4444&text_color=c9d1d9)](https://github.com/DevCop95/cYHBer)
+[![bugbounty-lab101](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DevCop95&repo=bugbounty-lab101&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ef4444&icon_color=ef4444&text_color=c9d1d9)](https://github.com/DevCop95/bugbounty-lab101)
+
+</div>
 
 <div align="center">
 
@@ -141,17 +148,17 @@ Full-Stack Developer and AI Engineer based in **Cartagena, Colombia** 🇨🇴, 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DevCop95&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DevCop95&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ef4444&icon_color=ef4444&text_color=c9d1d9&rank_icon=github" />
 &nbsp;
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DevCop95&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DevCop95&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ef4444&text_color=c9d1d9&langs_count=8" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=DevCop95&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevCop95&theme=dark&background=0d1117&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&stroke=ef4444&sideLabels=c9d1d9&dates=c9d1d9" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevCop95&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ff6b6b&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevCop95&theme=tokyo-night&bg_color=0d1117&color=ef4444&line=ef4444&point=ff4d4d&area=true&hide_border=true" />
 
 </div>
 
@@ -161,7 +168,7 @@ Full-Stack Developer and AI Engineer based in **Cartagena, Colombia** 🇨🇴, 
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-devyared.dpdns.org-a78bfa?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devyared.dpdns.org/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-devyared.dpdns.org-ef4444?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devyared.dpdns.org/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevCop95)
 [![HackerOne](https://img.shields.io/badge/HackerOne-Dev101x-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/Dev101x)
 [![X](https://img.shields.io/badge/X-@Devcop101-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Devcop101)
@@ -176,4 +183,4 @@ Full-Stack Developer and AI Engineer based in **Cartagena, Colombia** 🇨🇴, 
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=a78bfa&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ef4444&height=100&section=footer"/>
