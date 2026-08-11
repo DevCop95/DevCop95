@@ -104,7 +104,7 @@ Full-Stack Developer and AI Engineer based in **Cartagena, Colombia** 🇨🇴, 
 
 <div align="center">
 
-[![cYHBer](https://github-readme-stats-fast.vercel.app/api/pin/?username=DevCop95&repo=cYHBer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ef4444&icon_color=ef4444&text_color=c9d1d9)](https://github.com/DevCop95/cYHBer)
+[![shodan_reconsx](https://github-readme-stats-fast.vercel.app/api/pin/?username=DevCop95&repo=shodan_reconsx&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ef4444&icon_color=ef4444&text_color=c9d1d9)](https://github.com/DevCop95/shodan_reconsx)
 [![bugbounty-lab101](https://github-readme-stats-fast.vercel.app/api/pin/?username=DevCop95&repo=bugbounty-lab101&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ef4444&icon_color=ef4444&text_color=c9d1d9)](https://github.com/DevCop95/bugbounty-lab101)
 
 </div>
@@ -114,7 +114,7 @@ Full-Stack Developer and AI Engineer based in **Cartagena, Colombia** 🇨🇴, 
 | Project | Stack | Description |
 |---|---|---|
 | 🏹 [**bugbounty-lab101**](https://github.com/DevCop95/bugbounty-lab101) | `Shell` `Recon` `HackerOne` | Complete bug bounty workspace: 400+ tools, automated recon/vuln pipeline and scope enforcement |
-| 🛡️ [**cYHBer**](https://github.com/DevCop95/cYHBer) | `Python` `LLM` `Security` | Research architecture on semantic evasion of AI safety filters |
+| 🔍 [**shodan_reconsx**](https://github.com/DevCop95/shodan_reconsx) | `Python` `Shodan` `Recon` | Shodan recon & OSINT intelligence gathering framework |
 | 🕹️ [**pullgoscript**](https://github.com/DevCop95/pullgoscript) | `Go` `Windows` `C2` | Lightweight C2 framework for Windows Red Team post-exploitation |
 | 🤖 [**cyhber-deploy**](https://github.com/DevCop95/cyhber-deploy) | `Python` `Claude` `Gemini` | Security skill layer for Claude, Codex and Gemini AI agents |
 | 🧠 [**cYHBeriteratus**](https://github.com/DevCop95/cYHBeriteratus) | `JavaScript` `LLM` `Local AI` | Private, filter-free local LLM interface for security engineers |
