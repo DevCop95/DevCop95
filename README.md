@@ -35,7 +35,7 @@ Full-Stack Developer and AI Engineer based in **Cartagena, Colombia** 🇨🇴, 
 
 <br>
 
-[![Stars](https://img.shields.io/badge/Stars-309-ef4444?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/DevCop95/bugbounty-lab101/stargazers)
+[![Stars](https://img.shields.io/badge/Stars-312-ef4444?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/DevCop95/bugbounty-lab101/stargazers)
 [![Forks](https://img.shields.io/badge/Forks-56-494649?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/DevCop95/bugbounty-lab101/network/members)
 
 **A complete bug bounty workspace for HackerOne researchers** — scope enforcement, an automated recon/vuln pipeline (400+ tools), report templates, CVE/CWE watchlists and a local VM practice lab. Built for disciplined, ethical hunting.
