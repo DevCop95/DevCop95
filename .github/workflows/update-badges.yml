@@ -2,11 +2,12 @@ name: Update README Badges
 
 on:
   schedule:
-    - cron: "0 9 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
   push:
     paths:
       - "README.md"
+      - ".github/scripts/**"
 
 permissions:
   contents: write
@@ -22,6 +23,8 @@ jobs:
           python-version: "3.12"
 
       - name: Fetch GitHub stats and update badges
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python .github/scripts/update-badges.py
 
       - name: Commit if changed
@@ -30,6 +33,6 @@ jobs:
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
             git add README.md
-            git commit -m "chore: update repo stars/forks badges"
+            git commit -m "chore: update repo stars/forks badges & refresh cards"
             git push
           fi
