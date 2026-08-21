@@ -30,12 +30,12 @@ Full-Stack Developer and AI Engineer based in **Cartagena, Colombia** 🇨🇴, 
 <div align="center">
 
 <a href="https://github.com/DevCop95/bugbounty-lab101">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=DevCop95&repo=bugbounty-lab101&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&cache_bust=1787250272" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=DevCop95&repo=bugbounty-lab101&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&cache_bust=1787273121" />
 </a>
 
 <br>
 
-[![Stars](https://img.shields.io/badge/Stars-328-ef4444?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/DevCop95/bugbounty-lab101/stargazers)
+[![Stars](https://img.shields.io/badge/Stars-329-ef4444?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/DevCop95/bugbounty-lab101/stargazers)
 [![Forks](https://img.shields.io/badge/Forks-56-494649?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/DevCop95/bugbounty-lab101/network/members)
 
 **A complete bug bounty workspace for HackerOne researchers** — scope enforcement, an automated recon/vuln pipeline (400+ tools), report templates, CVE/CWE watchlists and a local VM practice lab. Built for disciplined, ethical hunting.
@@ -104,8 +104,8 @@ Full-Stack Developer and AI Engineer based in **Cartagena, Colombia** 🇨🇴, 
 
 <div align="center">
 
-[![shodan_reconsx](https://github-readme-stats-fast.vercel.app/api/pin/?username=DevCop95&repo=shodan_reconsx&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&cache_bust=1787250272)](https://github.com/DevCop95/shodan_reconsx)
-[![bugbounty-lab101](https://github-readme-stats-fast.vercel.app/api/pin/?username=DevCop95&repo=bugbounty-lab101&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&cache_bust=1787250272)](https://github.com/DevCop95/bugbounty-lab101)
+[![shodan_reconsx](https://github-readme-stats-fast.vercel.app/api/pin/?username=DevCop95&repo=shodan_reconsx&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&cache_bust=1787273121)](https://github.com/DevCop95/shodan_reconsx)
+[![bugbounty-lab101](https://github-readme-stats-fast.vercel.app/api/pin/?username=DevCop95&repo=bugbounty-lab101&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&cache_bust=1787273121)](https://github.com/DevCop95/bugbounty-lab101)
 
 </div>
 
@@ -148,13 +148,13 @@ Full-Stack Developer and AI Engineer based in **Cartagena, Colombia** 🇨🇴, 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=DevCop95&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&rank_icon=github&cache_bust=1787250272" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=DevCop95&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&rank_icon=github&cache_bust=1787273121" />
 &nbsp;
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DevCop95&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&text_color=c9d1d9&langs_count=8&cache_bust=1787250272" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DevCop95&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&text_color=c9d1d9&langs_count=8&cache_bust=1787273121" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevCop95&theme=tokyo-night&bg_color=0d1117&color=dc2626&line=ef4444&point=ff4d4d&area=true&hide_border=true&cache_bust=1787250272" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevCop95&theme=tokyo-night&bg_color=0d1117&color=dc2626&line=ef4444&point=ff4d4d&area=true&hide_border=true&cache_bust=1787273121" />
 
 </div>
 
