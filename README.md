@@ -35,8 +35,8 @@ Full-Stack Developer and AI Engineer based in **Cartagena, Colombia** 🇨🇴, 
 
 <br>
 
-[![Stars](https://img.shields.io/badge/Stars-345-ef4444?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/DevCop95/bugbounty-lab101/stargazers)
-[![Forks](https://img.shields.io/badge/Forks-56-494649?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/DevCop95/bugbounty-lab101/network/members)
+[![Stars](https://img.shields.io/github/stars/DevCop95/bugbounty-lab101?style=for-the-badge&logo=github&label=Stars&labelColor=0d1117&color=ef4444)](https://github.com/DevCop95/bugbounty-lab101/stargazers)
+[![Forks](https://img.shields.io/github/forks/DevCop95/bugbounty-lab101?style=for-the-badge&logo=github&label=Forks&labelColor=0d1117&color=494649)](https://github.com/DevCop95/bugbounty-lab101/network/members)
 
 **A complete bug bounty workspace for HackerOne researchers** — scope enforcement, an automated recon/vuln pipeline (400+ tools), report templates, CVE/CWE watchlists and a local VM practice lab. Built for disciplined, ethical hunting.
 
@@ -154,7 +154,7 @@ Full-Stack Developer and AI Engineer based in **Cartagena, Colombia** 🇨🇴, 
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevCop95&theme=tokyo-night&bg_color=0d1117&color=dc2626&line=ef4444&point=ff4d4d&area=true&hide_border=true&cache_bust=1787660969" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevCop95&theme=github_dark" alt="GitHub activity summary for DevCop95" />
 
 </div>
 
