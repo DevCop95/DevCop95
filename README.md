@@ -6,6 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-devyared.dpdns.org-ef4444?style=flat-square&logo=googlechrome&logoColor=white)](https://devyared.dpdns.org/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DevCop95)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yared--dev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yared-dev)
 [![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/Dev101x)
 [![X](https://img.shields.io/badge/@Devcop101-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Devcop101)
 [![Profile views](https://komarev.com/ghpvc/?username=DevCop95&style=flat-square&color=dc2626&label=views)](https://github.com/DevCop95)
@@ -154,7 +155,7 @@ Full-Stack Developer and AI Engineer based in **Cartagena, Colombia** 🇨🇴, 
 
 <br><br>
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevCop95&theme=github_dark" alt="GitHub activity summary for DevCop95" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevCop95&theme=github_dark&bg_color=0d1117&title_color=dc2626&text_color=c9d1d9&icon_color=dc2626&chart_color=dc2626&border_color=30363d" alt="GitHub activity summary for DevCop95" />
 
 </div>
 
@@ -166,6 +167,7 @@ Full-Stack Developer and AI Engineer based in **Cartagena, Colombia** 🇨🇴, 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-devyared.dpdns.org-ef4444?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devyared.dpdns.org/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevCop95)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yared--Dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yared-dev)
 [![HackerOne](https://img.shields.io/badge/HackerOne-Dev101x-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/Dev101x)
 [![X](https://img.shields.io/badge/X-@Devcop101-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Devcop101)
 
