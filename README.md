@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=EF4444&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+%7C+Salesforce+Engineer;Python+%26+AI+Engineer+%F0%9F%90%8D;Offensive+Security+%26+Bug+Bounty+%F0%9F%9B%A1%EF%B8%8F;M.Sc.+in+AI+%E2%80%94+Universitat+de+Barcelona" alt="Typing SVG"/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-devyared.dpdns.org-ef4444?style=flat-square&logo=googlechrome&logoColor=white)](https://devyared.dpdns.org/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dev101x.online-ef4444?style=flat-square&logo=googlechrome&logoColor=white)](https://dev101x.online/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DevCop95)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yared--dev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yared-dev)
 [![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/Dev101x)
@@ -165,7 +165,7 @@ Full-Stack Developer and AI Engineer based in **Cartagena, Colombia** 🇨🇴, 
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-devyared.dpdns.org-ef4444?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devyared.dpdns.org/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dev101x.online-ef4444?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dev101x.online/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevCop95)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yared--Dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yared-dev)
 [![HackerOne](https://img.shields.io/badge/HackerOne-Dev101x-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/Dev101x)
