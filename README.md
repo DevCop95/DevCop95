@@ -5,6 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=EF4444&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+%7C+Salesforce+Engineer;Python+%26+AI+Engineer+%F0%9F%90%8D;Offensive+Security+%26+Bug+Bounty+%F0%9F%9B%A1%EF%B8%8F;M.Sc.+in+AI+%E2%80%94+Universitat+de+Barcelona" alt="Typing SVG"/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dev101x.online-ef4444?style=flat-square&logo=googlechrome&logoColor=white)](https://dev101x.online/)
+[![Courses](https://img.shields.io/badge/Courses-cursos.dev101x.online-ef4444?style=flat-square&logo=bookstack&logoColor=white)](https://cursos.dev101x.online/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DevCop95)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yared--dev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yared-dev)
 [![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/Dev101x)
@@ -118,6 +119,7 @@ Full-Stack Developer and AI Engineer based in **Cartagena, Colombia** 🇨🇴, 
 | 🔍 [**shodan_reconsx**](https://github.com/DevCop95/shodan_reconsx) | `Python` `Shodan` `Recon` | Shodan recon & OSINT intelligence gathering framework |
 | 🕹️ [**pullgoscript**](https://github.com/DevCop95/pullgoscript) | `Go` `Windows` `C2` | Lightweight C2 framework for Windows Red Team post-exploitation |
 | 🤖 [**cyhber-deploy**](https://github.com/DevCop95/cyhber-deploy) | `Python` `Claude` `Gemini` | Security skill layer for Claude, Codex and Gemini AI agents |
+| 🎓 [**cursos**](https://github.com/DevCop95/cursos) · [live](https://cursos.dev101x.online/) | `JavaScript` `Supabase` `Tailwind` | Spanish-language course platform with a simulated browser terminal: Nmap on Windows (free) and Git & GitHub from scratch (premium) |
 | 🧠 [**cYHBeriteratus**](https://github.com/DevCop95/cYHBeriteratus) | `JavaScript` `LLM` `Local AI` | Private, filter-free local LLM interface for security engineers |
 
 </div>
@@ -166,6 +168,7 @@ Full-Stack Developer and AI Engineer based in **Cartagena, Colombia** 🇨🇴, 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dev101x.online-ef4444?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dev101x.online/)
+[![Courses](https://img.shields.io/badge/Courses-cursos.dev101x.online-ef4444?style=for-the-badge&logo=bookstack&logoColor=white)](https://cursos.dev101x.online/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevCop95)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yared--Dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yared-dev)
 [![HackerOne](https://img.shields.io/badge/HackerOne-Dev101x-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/Dev101x)
