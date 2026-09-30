@@ -1,11 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=dc2626&height=140&section=header&text=Yared%20Henriquez&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Engineer%20%C2%B7%20Security%20Researcher&descSize=16&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=dc2626&height=140&section=header&text=Yared%20Henriquez&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Colombian%20Ethical%20Hacker%20%C2%B7%20Security%20Researcher%20%C2%B7%20AI%20Engineer&descSize=16&descAlignY=58&animation=fadeIn" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=EF4444&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+%7C+Salesforce+Engineer;Python+%26+AI+Engineer+%F0%9F%90%8D;Offensive+Security+%26+Bug+Bounty+%F0%9F%9B%A1%EF%B8%8F;M.Sc.+in+AI+%E2%80%94+Universitat+de+Barcelona" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=EF4444&center=true&vCenter=true&width=640&lines=Colombian+Ethical+Hacker+%7C+Security+Researcher+%F0%9F%9B%A1%EF%B8%8F;LOLBAS+Official+Contributor+%F0%9F%94%8E;Top+%2318+GitHub+Colombia+%F0%9F%87%A8%F0%9F%87%B4;Penetration+Tester+%40+Henkel+%F0%9F%9B%A1%EF%B8%8F;M.Sc.+in+AI+%E2%80%94+Universitat+de+Barcelona" alt="Typing SVG"/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dev101x.online-ef4444?style=flat-square&logo=googlechrome&logoColor=white)](https://dev101x.online/)
 [![Courses](https://img.shields.io/badge/Courses-cursos.dev101x.online-ef4444?style=flat-square&logo=bookstack&logoColor=white)](https://cursos.dev101x.online/)
+[![LOLBAS Contributor](https://img.shields.io/badge/LOLBAS-Official_Contributor-00c466?style=flat-square&logo=github&logoColor=white)](https://github.com/LOLBAS-Project/LOLBAS/pull/525)
+[![Rank Colombia](https://img.shields.io/badge/Top_%2318-GitHub_Colombia-10b981?style=flat-square&logo=github&logoColor=white)](https://committers.top/colombia)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DevCop95)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yared--dev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yared-dev)
 [![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/Dev101x)
@@ -18,12 +20,36 @@
 
 ## 👋 About me
 
-Full-Stack Developer and AI Engineer based in **Cartagena, Colombia** 🇨🇴, currently pursuing a **Master's in Artificial Intelligence at the Universitat de Barcelona**. I build production software across the stack, design enterprise automations on **Salesforce**, and research **offensive security** — from LLM-driven tooling to bug-bounty pipelines.
+Colombian Ethical Hacker, Security Researcher and Software Engineer (aka **DevCop95 / Dev101x**) based in **Cartagena, Colombia** 🇨🇴. Ranked **Top #18 GitHub Committers in Colombia**, currently working as a Penetration Tester at **Henkel** (Switzerland · Remote) and pursuing a **Master's in Artificial Intelligence at the Universitat de Barcelona**.
 
-- 🤖 Working with **LLMs, RAG and AI Agents** (LangChain · Python · OpenAI)
-- 🛡️ Building **offensive security** tooling in **Go** and **Python**
-- 🛠️ Delivering enterprise **Salesforce** automations for clients
-- 🤝 Open to **freelance projects** and collaboration on **Applied AI** & **Red Teaming**
+My focus spans **offensive security, vulnerability research (LOLBAS), and autonomous AI agent architectures** — bridging low-level system exploitation and evasion techniques with automated intelligence pipelines.
+
+- 🛡️ **Vulnerability Researcher & LOLBAS Contributor:** Authored Windows `Fsutil.exe` execution technique in the official [LOLBAS Project (PR #525)](https://github.com/LOLBAS-Project/LOLBAS/pull/525) (MITRE ATT&CK T1562.001); research cited in **The Chinese University of Hong Kong (CUHK ITSC)** security advisory.
+- 🎯 **Offensive Security & Red Teaming:** Active bug bounty hunter on **HackerOne**, developing automated recon/vulnerability frameworks ([bugbounty-lab101](https://github.com/DevCop95/bugbounty-lab101)), OSINT tools ([shodan_reconsx](https://github.com/DevCop95/shodan_reconsx)), and credential extraction tooling ([BDB-Guardian](https://github.com/DevCop95/BDB-Guardian)).
+- 🇨🇴 **Open Source Colombia:** Ranked **#18** active GitHub contributor in Colombia ([committers.top/colombia](https://committers.top/colombia)).
+- 🤖 **Applied AI & Autonomous Agents:** Engineering custom security skill layers and LLM integration pipelines (LangChain · Python · OpenAI · Claude).
+- 🤝 **Collaboration:** Open to advanced **Red Teaming**, **Applied AI Security**, and technical consulting engagements.
+
+---
+
+## 🛡️ Vulnerability Research & Official Contributions
+
+<div align="center">
+  <a href="https://github.com/LOLBAS-Project/LOLBAS/pull/525">
+    <img src="./assets/img/lolbas_devcop95_banner.jpg" alt="LOLBAS Contribution Banner" width="100%" />
+  </a>
+</div>
+
+### 🔹 [LOLBAS Project (Living Off The Land Binaries, Scripts and Libraries)](https://github.com/LOLBAS-Project/LOLBAS)
+Official contributor to the industry-standard **LOLBAS Project**, cataloging native Windows binaries leveraged for defense evasion and post-exploitation.
+
+| Component | Detail |
+|---|---|
+| **Binary & Technique** | `Fsutil.exe` — Defense Evasion via 8dot3 Name Creation Tampering |
+| **Pull Request** | [LOLBAS-Project/LOLBAS #525 (Merged)](https://github.com/LOLBAS-Project/LOLBAS/pull/525) |
+| **MITRE ATT&CK Matrix** | [T1562.001: Impair Defenses — Disable or Modify Tools](https://attack.mitre.org/techniques/T1562/001/) |
+| **Academic / Advisory Citation** | Cited by **The Chinese University of Hong Kong (CUHK ITSC Security Advisory)** |
+| **Research Impact** | Demonstrates native OS execution paths to bypass file system telemetry and detection rules |
 
 ---
 
@@ -32,7 +58,7 @@ Full-Stack Developer and AI Engineer based in **Cartagena, Colombia** 🇨🇴, 
 <div align="center">
 
 <a href="https://github.com/DevCop95/bugbounty-lab101">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=DevCop95&repo=bugbounty-lab101&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&cache_bust=1790788604" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=DevCop95&repo=bugbounty-lab101&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&cache_bust=1790800659" />
 </a>
 
 <br>
@@ -60,7 +86,16 @@ Full-Stack Developer and AI Engineer based in **Cartagena, Colombia** 🇨🇴, 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**AI & Data**
+**Security & Red Teaming**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-000000?style=for-the-badge&logo=target&logoColor=white)
+![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)
+
+**AI & Data Science**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -68,46 +103,33 @@ Full-Stack Developer and AI Engineer based in **Cartagena, Colombia** 🇨🇴, 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-**Frontend**
+**Frontend & Mobile**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Backend & Data**
+**Backend & Cloud**
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Security**
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-**Platforms & DevOps**
-
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects & Security Arsenal
 
 <div align="center">
 
-[![shodan_reconsx](https://github-readme-stats-fast.vercel.app/api/pin/?username=DevCop95&repo=shodan_reconsx&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&cache_bust=1790788604)](https://github.com/DevCop95/shodan_reconsx)
-[![bugbounty-lab101](https://github-readme-stats-fast.vercel.app/api/pin/?username=DevCop95&repo=bugbounty-lab101&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&cache_bust=1790788604)](https://github.com/DevCop95/bugbounty-lab101)
+[![shodan_reconsx](https://github-readme-stats-fast.vercel.app/api/pin/?username=DevCop95&repo=shodan_reconsx&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&cache_bust=1790800659)](https://github.com/DevCop95/shodan_reconsx)
+[![bugbounty-lab101](https://github-readme-stats-fast.vercel.app/api/pin/?username=DevCop95&repo=bugbounty-lab101&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&cache_bust=1790800659)](https://github.com/DevCop95/bugbounty-lab101)
 
 </div>
 
@@ -115,7 +137,9 @@ Full-Stack Developer and AI Engineer based in **Cartagena, Colombia** 🇨🇴, 
 
 | Project | Stack | Description |
 |---|---|---|
+| 🛡️ [**LOLBAS-Project/LOLBAS**](https://github.com/LOLBAS-Project/LOLBAS/pull/525) | `Official Contributor` `MITRE T1562.001` | Official contribution: `Fsutil.exe` execution & defense evasion (PR #525 merged). Cited by Chinese University of Hong Kong (CUHK) |
 | 🏹 [**bugbounty-lab101**](https://github.com/DevCop95/bugbounty-lab101) | `Shell` `Recon` `HackerOne` | Complete bug bounty workspace: 400+ tools, automated recon/vuln pipeline and scope enforcement |
+| 🏦 [**BDB-Guardian**](https://github.com/DevCop95/BDB-Guardian) | `Python` `SecOps` `Forensics` | Banking credential scanner & memory dumper for incident response and red team simulation |
 | 🔍 [**shodan_reconsx**](https://github.com/DevCop95/shodan_reconsx) | `Python` `Shodan` `Recon` | Shodan recon & OSINT intelligence gathering framework |
 | 🕹️ [**pullgoscript**](https://github.com/DevCop95/pullgoscript) | `Go` `Windows` `C2` | Lightweight C2 framework for Windows Red Team post-exploitation |
 | 🤖 [**cyhber-deploy**](https://github.com/DevCop95/cyhber-deploy) | `Python` `Claude` `Gemini` | Security skill layer for Claude, Codex and Gemini AI agents |
@@ -130,10 +154,11 @@ Full-Stack Developer and AI Engineer based in **Cartagena, Colombia** 🇨🇴, 
 
 | Period | Role | Company |
 |---|---|---|
+| 2026 — present | 🛡️ Penetration Tester | Henkel · Switzerland (Remote · Part-time) |
 | 2022 — 2025 | 🏢 Chief Technology Officer | EXIA S.A.S — Cartagena, CO |
 | 2021 — 2024 | 💻 Semi-Senior Developer | Google |
-| 2020 — present | 🚀 Freelance · Salesforce & Dev | Cartagena, CO |
-| 2015 — 2016 | 📋 Administrative Assistant | Proyecto CIER NORTE |
+| 2020 — present | 🚀 Freelance · Offensive Security & AI | Independent / Freelance |
+| 2015 — 2016 | 📋 Administrative Assistant | CIER NORTE Project |
 
 ---
 
@@ -151,9 +176,9 @@ Full-Stack Developer and AI Engineer based in **Cartagena, Colombia** 🇨🇴, 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=DevCop95&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&rank_icon=github&cache_bust=1790788604" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=DevCop95&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&rank_icon=github&cache_bust=1790800659" />
 &nbsp;
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DevCop95&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&text_color=c9d1d9&langs_count=8&cache_bust=1790788604" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DevCop95&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&text_color=c9d1d9&langs_count=8&cache_bust=1790800659" />
 
 <br><br>
 
@@ -176,11 +201,11 @@ Full-Stack Developer and AI Engineer based in **Cartagena, Colombia** 🇨🇴, 
 
 <br>
 
-<i>"Code is poetry. Ship it."</i>
+<i>"Security is not a product, but a process. Code is poetry. Ship it."</i>
 
 <br>
 
-<sub>⭐️ From <a href="https://github.com/DevCop95">DevCop95</a> · Cartagena, Colombia 🇨🇴</sub>
+<sub>⭐️ From <a href="https://github.com/DevCop95">DevCop95</a> · Colombian Ethical Hacker · Cartagena, Colombia 🇨🇴</sub>
 
 </div>
 
