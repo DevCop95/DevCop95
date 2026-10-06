@@ -1,5 +1,15 @@
 <div align="center">
-<img src="assets/img/dev101x_banner.svg" alt="DEV101X banner" width="100%" />
+
+```text
+▓█████▄ ▓█████ ██▒   █▓                 ▒██   ██▒
+▒██▀ ██▌▓█   ▀▓██░   █▒                 ▒▒ █ █ ▒░
+░██   █▌▒███   ▓██  █▒░ ██╗ ██████╗  ██╗░░  █   ░
+░▓█▄   ▌▒▓█  ▄  ▒██ █░░███║██╔═████╗███║ ░ █ █ ▒ 
+░▒████▓ ░▒████▒  ▒▀█░  ╚██║██║██╔██║╚██║▒██▒ ▒██▒
+ ▒▒▓  ▒ ░░ ▒░ ░  ░ ▐░   ██║████╔╝██║ ██║▒▒ ░ ░▓ ░
+ ░ ▒  ▒  ░ ░  ░  ░ ░░   ██║╚██████╔╝ ██║░░   ░▒ ░
+ ░ ░  ░    ░       ░░   ╚═╝ ╚═════╝  ╚═╝ ░    ░  
+```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=EF4444&center=true&vCenter=true&width=640&lines=Colombian+Ethical+Hacker+%7C+Security+Researcher+%F0%9F%9B%A1%EF%B8%8F;LOLBAS+Official+Contributor+%F0%9F%94%8E;Penetration+Tester+%40+Henkel+%F0%9F%9B%A1%EF%B8%8F;M.Sc.+in+AI+%E2%80%94+Universitat+de+Barcelona" alt="Typing SVG"/>
 
@@ -57,7 +67,7 @@ dev101x@kali:~$ cat focus.txt
 <div align="center">
 
 [![bugbounty-lab101](https://github-readme-stats-fast.vercel.app/api/pin/?username=DevCop95&repo=bugbounty-lab101&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9)](https://github.com/DevCop95/bugbounty-lab101)
-[![dev101x-pentest-lab](https://github-readme-stats-fast.vercel.app/api/pin/?username=DevCop95&repo=dev101x-pentest-lab&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9)](https://github.com/DevCop95/dev101x-pentest-lab)
+[![shodan_reconsx](https://github-readme-stats-fast.vercel.app/api/pin/?username=DevCop95&repo=shodan_reconsx&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9)](https://github.com/DevCop95/shodan_reconsx)
 
 </div>
 
@@ -69,7 +79,7 @@ dev101x@kali:~$ cat focus.txt
 | 🏦 [**BDB-Guardian**](https://github.com/DevCop95/BDB-Guardian) | `PowerShell` | SecOps / forensics tooling for incident-response simulation |
 | 🔍 [**shodan_reconsx**](https://github.com/DevCop95/shodan_reconsx) | `Python` · `Shodan` | OSINT recon framework built on the Shodan API |
 | 🤖 [**cyhber-deploy**](https://github.com/DevCop95/cyhber-deploy) | `Python` | Security skill layer for AI coding agents |
-| 🎓 [**cursos**](https://github.com/DevCop95/cursos) · [live](https://cursos.dev101x.online/) | `JavaScript` · `Supabase` | Spanish-language course platform with a simulated terminal |
+| 🎯 [**HackTheBox**](https://profile.hackthebox.com/profile/019f8d0f-a8d2-73bb-8f12-d863b7261aa3) | `Labs` · `CTF` | Active profile — pentesting labs & CTF practice |
 
 </div>
 
