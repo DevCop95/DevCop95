@@ -1,20 +1,9 @@
 <div align="center">
-
-```text
-▓█████▄ ▓█████ ██▒   █▓                 ▒██   ██▒
-▒██▀ ██▌▓█   ▀▓██░   █▒                 ▒▒ █ █ ▒░
-░██   █▌▒███   ▓██  █▒░ ██╗ ██████╗  ██╗░░  █   ░
-░▓█▄   ▌▒▓█  ▄  ▒██ █░░███║██╔═████╗███║ ░ █ █ ▒ 
-░▒████▓ ░▒████▒  ▒▀█░  ╚██║██║██╔██║╚██║▒██▒ ▒██▒
- ▒▒▓  ▒ ░░ ▒░ ░  ░ ▐░   ██║████╔╝██║ ██║▒▒ ░ ░▓ ░
- ░ ▒  ▒  ░ ░  ░  ░ ░░   ██║╚██████╔╝ ██║░░   ░▒ ░
- ░ ░  ░    ░       ░░   ╚═╝ ╚═════╝  ╚═╝ ░    ░  
-```
+<img src="assets/img/dev101x_banner.png" alt="DEV101X banner" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=EF4444&center=true&vCenter=true&width=640&lines=Colombian+Ethical+Hacker+%7C+Security+Researcher+%F0%9F%9B%A1%EF%B8%8F;LOLBAS+Official+Contributor+%F0%9F%94%8E;Penetration+Tester+%40+Henkel+%F0%9F%9B%A1%EF%B8%8F;M.Sc.+in+AI+%E2%80%94+Universitat+de+Barcelona" alt="Typing SVG"/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dev101x.online-ef4444?style=flat-square&logo=googlechrome&logoColor=white)](https://dev101x.online/)
-[![Courses](https://img.shields.io/badge/Courses-cursos.dev101x.online-ef4444?style=flat-square&logo=bookstack&logoColor=white)](https://cursos.dev101x.online/)
 [![LOLBAS Contributor](https://img.shields.io/badge/LOLBAS-Official_Contributor-00c466?style=flat-square&logo=github&logoColor=white)](https://github.com/LOLBAS-Project/LOLBAS/pull/525)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yared--dev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yared-dev)
 [![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/Dev101x)
