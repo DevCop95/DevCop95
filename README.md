@@ -131,7 +131,9 @@ dev101x@kali:~$ cat focus.txt
 
 <div align="center">
 
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-dev101x-9fef00?style=for-the-badge&logo=hackthebox&logoColor=9fef00&labelColor=141d2b)](https://profile.hackthebox.com/profile/019f8d0f-a8d2-73bb-8f12-d863b7261aa3)
+<a href="https://profile.hackthebox.com/profile/019f8d0f-a8d2-73bb-8f12-d863b7261aa3">
+  <img src="assets/img/htb_stats.png" alt="dev101x HackTheBox stats" width="100%" />
+</a>
 
 </div>
 
