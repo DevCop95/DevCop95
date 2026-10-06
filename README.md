@@ -68,7 +68,6 @@ dev101x@kali:~$ cat focus.txt
 | 🏦 [**BDB-Guardian**](https://github.com/DevCop95/BDB-Guardian) | `PowerShell` | SecOps / forensics tooling for incident-response simulation |
 | 🔍 [**shodan_reconsx**](https://github.com/DevCop95/shodan_reconsx) | `Python` · `Shodan` | OSINT recon framework built on the Shodan API |
 | 🤖 [**cyhber-deploy**](https://github.com/DevCop95/cyhber-deploy) | `Python` | Security skill layer for AI coding agents |
-| 🎯 [**HackTheBox**](https://profile.hackthebox.com/profile/019f8d0f-a8d2-73bb-8f12-d863b7261aa3) | `Labs` · `CTF` | Active profile — pentesting labs & CTF practice |
 
 </div>
 
@@ -123,6 +122,16 @@ dev101x@kali:~$ cat focus.txt
 <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=DevCop95&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&rank_icon=github" alt="DevCop95's GitHub stats" />
 &nbsp;
 <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DevCop95&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&text_color=c9d1d9&langs_count=8" alt="DevCop95's most used languages" />
+
+</div>
+
+---
+
+## 🎯 HackTheBox
+
+<div align="center">
+
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-dev101x-9fef00?style=for-the-badge&logo=hackthebox&logoColor=9fef00&labelColor=141d2b)](https://profile.hackthebox.com/profile/019f8d0f-a8d2-73bb-8f12-d863b7261aa3)
 
 </div>
 
