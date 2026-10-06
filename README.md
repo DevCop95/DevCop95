@@ -1,14 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=dc2626&height=140&section=header&text=Yared%20Henriquez&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Colombian%20Ethical%20Hacker%20%C2%B7%20Security%20Researcher%20%C2%B7%20AI%20Engineer&descSize=16&descAlignY=58&animation=fadeIn" />
-
 <div align="center">
+<img src="assets/img/dev101x_banner.svg" alt="DEV101X banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=EF4444&center=true&vCenter=true&width=640&lines=Colombian+Ethical+Hacker+%7C+Security+Researcher+%F0%9F%9B%A1%EF%B8%8F;LOLBAS+Official+Contributor+%F0%9F%94%8E;Top+%2318+GitHub+Colombia+%F0%9F%87%A8%F0%9F%87%B4;Penetration+Tester+%40+Henkel+%F0%9F%9B%A1%EF%B8%8F;M.Sc.+in+AI+%E2%80%94+Universitat+de+Barcelona" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=EF4444&center=true&vCenter=true&width=640&lines=Colombian+Ethical+Hacker+%7C+Security+Researcher+%F0%9F%9B%A1%EF%B8%8F;LOLBAS+Official+Contributor+%F0%9F%94%8E;Penetration+Tester+%40+Henkel+%F0%9F%9B%A1%EF%B8%8F;M.Sc.+in+AI+%E2%80%94+Universitat+de+Barcelona" alt="Typing SVG"/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dev101x.online-ef4444?style=flat-square&logo=googlechrome&logoColor=white)](https://dev101x.online/)
 [![Courses](https://img.shields.io/badge/Courses-cursos.dev101x.online-ef4444?style=flat-square&logo=bookstack&logoColor=white)](https://cursos.dev101x.online/)
 [![LOLBAS Contributor](https://img.shields.io/badge/LOLBAS-Official_Contributor-00c466?style=flat-square&logo=github&logoColor=white)](https://github.com/LOLBAS-Project/LOLBAS/pull/525)
-[![Rank Colombia](https://img.shields.io/badge/Top_%2318-GitHub_Colombia-10b981?style=flat-square&logo=github&logoColor=white)](https://committers.top/colombia)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DevCop95)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yared--dev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yared-dev)
 [![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/Dev101x)
 [![X](https://img.shields.io/badge/@Devcop101-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Devcop101)
@@ -18,17 +15,24 @@
 
 ---
 
-## 👋 About me
+```bash
+dev101x@kali:~$ whoami
+```
 
-Colombian Ethical Hacker, Security Researcher and Software Engineer (aka **DevCop95 / Dev101x**) based in **Cartagena, Colombia** 🇨🇴. Ranked **Top #18 GitHub Committers in Colombia**, currently working as a Penetration Tester at **Henkel** (Switzerland · Remote) and pursuing a **Master's in Artificial Intelligence at the Universitat de Barcelona**.
+Colombian Ethical Hacker, Security Researcher and Software Engineer (aka **DevCop95 / Dev101x**), based in **Cartagena, Colombia** 🇨🇴. Currently a Penetration Tester at **Henkel** (Switzerland · Remote), and pursuing a **Master's in Artificial Intelligence at the Universitat de Barcelona**.
 
-My focus spans **offensive security, vulnerability research (LOLBAS), and autonomous AI agent architectures** — bridging low-level system exploitation and evasion techniques with automated intelligence pipelines.
+Focus: **offensive security, vulnerability research, and autonomous AI agent architectures** — bridging low-level system exploitation with automated intelligence pipelines.
 
-- 🛡️ **Vulnerability Researcher & LOLBAS Contributor:** Authored Windows `Fsutil.exe` execution technique in the official [LOLBAS Project (PR #525)](https://github.com/LOLBAS-Project/LOLBAS/pull/525) (MITRE ATT&CK T1562.001); research cited in **The Chinese University of Hong Kong (CUHK ITSC)** security advisory.
-- 🎯 **Offensive Security & Red Teaming:** Active bug bounty hunter on **HackerOne**, developing automated recon/vulnerability frameworks ([bugbounty-lab101](https://github.com/DevCop95/bugbounty-lab101)), OSINT tools ([shodan_reconsx](https://github.com/DevCop95/shodan_reconsx)), and credential extraction tooling ([BDB-Guardian](https://github.com/DevCop95/BDB-Guardian)).
-- 🇨🇴 **Open Source Colombia:** Ranked **#18** active GitHub contributor in Colombia ([committers.top/colombia](https://committers.top/colombia)).
-- 🤖 **Applied AI & Autonomous Agents:** Engineering custom security skill layers and LLM integration pipelines (LangChain · Python · OpenAI · Claude).
-- 🤝 **Collaboration:** Open to advanced **Red Teaming**, **Applied AI Security**, and technical consulting engagements.
+```bash
+dev101x@kali:~$ cat focus.txt
+```
+
+- 🛡️ **Vulnerability Research:** Authored the Windows `Fsutil.exe` defense-evasion technique in the official [LOLBAS Project (PR #525, merged)](https://github.com/LOLBAS-Project/LOLBAS/pull/525) — [MITRE ATT&CK T1562.001](https://attack.mitre.org/techniques/T1562/001/).
+- 🎯 **Offensive Security:** Bug bounty hunter on **HackerOne**; builds automated recon/vuln pipelines and OSINT tooling (see pinned projects below).
+- 🤖 **Applied AI:** Security skill layers and LLM integration pipelines (LangChain · Python).
+- 🤝 Open to **Red Teaming**, **Applied AI Security**, and technical consulting engagements.
+
+> ⚠️ **Authorized use only.** Every offensive/security tool linked below is built for use in scoped engagements, CTFs, bug bounty programs and environments the operator owns or is authorized to test. None of it is intended for use against systems without explicit permission.
 
 ---
 
@@ -40,33 +44,32 @@ My focus spans **offensive security, vulnerability research (LOLBAS), and autono
   </a>
 </div>
 
-### 🔹 [LOLBAS Project (Living Off The Land Binaries, Scripts and Libraries)](https://github.com/LOLBAS-Project/LOLBAS)
-Official contributor to the industry-standard **LOLBAS Project**, cataloging native Windows binaries leveraged for defense evasion and post-exploitation.
-
 | Component | Detail |
 |---|---|
 | **Binary & Technique** | `Fsutil.exe` — Defense Evasion via 8dot3 Name Creation Tampering |
 | **Pull Request** | [LOLBAS-Project/LOLBAS #525 (Merged)](https://github.com/LOLBAS-Project/LOLBAS/pull/525) |
-| **MITRE ATT&CK Matrix** | [T1562.001: Impair Defenses — Disable or Modify Tools](https://attack.mitre.org/techniques/T1562/001/) |
-| **Academic / Advisory Citation** | Cited by **The Chinese University of Hong Kong (CUHK ITSC Security Advisory)** |
-| **Research Impact** | Demonstrates native OS execution paths to bypass file system telemetry and detection rules |
+| **MITRE ATT&CK** | [T1562.001: Impair Defenses — Disable or Modify Tools](https://attack.mitre.org/techniques/T1562/001/) |
 
 ---
 
-## ⭐ Flagship project
+## 🚀 Projects & Security Arsenal
 
 <div align="center">
 
-<a href="https://github.com/DevCop95/bugbounty-lab101">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=DevCop95&repo=bugbounty-lab101&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&cache_bust=1791289650" />
-</a>
+[![bugbounty-lab101](https://github-readme-stats-fast.vercel.app/api/pin/?username=DevCop95&repo=bugbounty-lab101&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9)](https://github.com/DevCop95/bugbounty-lab101)
+[![dev101x-pentest-lab](https://github-readme-stats-fast.vercel.app/api/pin/?username=DevCop95&repo=dev101x-pentest-lab&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9)](https://github.com/DevCop95/dev101x-pentest-lab)
 
-<br>
+</div>
 
-[![Stars](https://img.shields.io/github/stars/DevCop95/bugbounty-lab101?style=for-the-badge&logo=github&label=Stars&labelColor=0d1117&color=ef4444)](https://github.com/DevCop95/bugbounty-lab101/stargazers)
-[![Forks](https://img.shields.io/github/forks/DevCop95/bugbounty-lab101?style=for-the-badge&logo=github&label=Forks&labelColor=0d1117&color=494649)](https://github.com/DevCop95/bugbounty-lab101/network/members)
-
-**A complete bug bounty workspace for HackerOne researchers** — scope enforcement, an automated recon/vuln pipeline (400+ tools), report templates, CVE/CWE watchlists and a local VM practice lab. Built for disciplined, ethical hunting.
+| Project | Stack | Description |
+|---|---|---|
+| 🛡️ [**LOLBAS-Project/LOLBAS**](https://github.com/LOLBAS-Project/LOLBAS/pull/525) | `Official Contributor` · `MITRE T1562.001` | Native Windows binary technique for defense evasion (PR #525, merged) |
+| 🏹 [**bugbounty-lab101**](https://github.com/DevCop95/bugbounty-lab101) | `Shell` · `Recon` | Bug bounty workspace: recon/vuln pipeline, report templates, scope enforcement |
+| 🧪 [**dev101x-pentest-lab**](https://github.com/DevCop95/dev101x-pentest-lab) | `Docker` · `Python` | Self-contained Pro Lab-style box: blind SQLi → pivot → SUID privesc, with live flag validation |
+| 🏦 [**BDB-Guardian**](https://github.com/DevCop95/BDB-Guardian) | `PowerShell` | SecOps / forensics tooling for incident-response simulation |
+| 🔍 [**shodan_reconsx**](https://github.com/DevCop95/shodan_reconsx) | `Python` · `Shodan` | OSINT recon framework built on the Shodan API |
+| 🤖 [**cyhber-deploy**](https://github.com/DevCop95/cyhber-deploy) | `Python` | Security skill layer for AI coding agents |
+| 🎓 [**cursos**](https://github.com/DevCop95/cursos) · [live](https://cursos.dev101x.online/) | `JavaScript` · `Supabase` | Spanish-language course platform with a simulated terminal |
 
 </div>
 
@@ -76,75 +79,20 @@ Official contributor to the industry-standard **LOLBAS Project**, cataloging nat
 
 <div align="center">
 
-**Languages**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-**Security & Red Teaming**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-000000?style=for-the-badge&logo=target&logoColor=white)
-![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)
-
-**AI & Data Science**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-**Frontend & Mobile**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Backend & Cloud**
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-</div>
-
----
-
-## 🚀 Featured Projects & Security Arsenal
-
-<div align="center">
-
-[![shodan_reconsx](https://github-readme-stats-fast.vercel.app/api/pin/?username=DevCop95&repo=shodan_reconsx&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&cache_bust=1791289650)](https://github.com/DevCop95/shodan_reconsx)
-[![bugbounty-lab101](https://github-readme-stats-fast.vercel.app/api/pin/?username=DevCop95&repo=bugbounty-lab101&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&cache_bust=1791289650)](https://github.com/DevCop95/bugbounty-lab101)
-
-</div>
-
-<div align="center">
-
-| Project | Stack | Description |
-|---|---|---|
-| 🛡️ [**LOLBAS-Project/LOLBAS**](https://github.com/LOLBAS-Project/LOLBAS/pull/525) | `Official Contributor` `MITRE T1562.001` | Official contribution: `Fsutil.exe` execution & defense evasion (PR #525 merged). Cited by Chinese University of Hong Kong (CUHK) |
-| 🏹 [**bugbounty-lab101**](https://github.com/DevCop95/bugbounty-lab101) | `Shell` `Recon` `HackerOne` | Complete bug bounty workspace: 400+ tools, automated recon/vuln pipeline and scope enforcement |
-| 🏦 [**BDB-Guardian**](https://github.com/DevCop95/BDB-Guardian) | `Python` `SecOps` `Forensics` | Banking credential scanner & memory dumper for incident response and red team simulation |
-| 🔍 [**shodan_reconsx**](https://github.com/DevCop95/shodan_reconsx) | `Python` `Shodan` `Recon` | Shodan recon & OSINT intelligence gathering framework |
-| 🕹️ [**pullgoscript**](https://github.com/DevCop95/pullgoscript) | `Go` `Windows` `C2` | Lightweight C2 framework for Windows Red Team post-exploitation |
-| 🤖 [**cyhber-deploy**](https://github.com/DevCop95/cyhber-deploy) | `Python` `Claude` `Gemini` | Security skill layer for Claude, Codex and Gemini AI agents |
-| 🎓 [**cursos**](https://github.com/DevCop95/cursos) · [live](https://cursos.dev101x.online/) | `JavaScript` `Supabase` `Tailwind` | Spanish-language course platform with a simulated browser terminal: Nmap on Windows (free) and Git & GitHub from scratch (premium) |
-| 🧠 [**cYHBeriteratus**](https://github.com/DevCop95/cYHBeriteratus) | `JavaScript` `LLM` `Local AI` | Private, filter-free local LLM interface for security engineers |
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 </div>
 
@@ -157,10 +105,7 @@ Official contributor to the industry-standard **LOLBAS Project**, cataloging nat
 | 2026 — present | 🛡️ Penetration Tester | Henkel · Switzerland (Remote · Part-time) |
 | 2022 — 2025 | 🏢 Chief Technology Officer | EXIA S.A.S — Cartagena, CO |
 | 2021 — 2024 | 💻 Semi-Senior Developer | Google |
-| 2020 — present | 🚀 Freelance · Offensive Security & AI | Independent / Freelance |
-| 2015 — 2016 | 📋 Administrative Assistant | CIER NORTE Project |
-
----
+| 2020 — present | 🚀 Freelance · Offensive Security & AI | Independent |
 
 ## 🎓 Education
 
@@ -176,37 +121,18 @@ Official contributor to the industry-standard **LOLBAS Project**, cataloging nat
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=DevCop95&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&rank_icon=github&cache_bust=1791289650" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=DevCop95&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&rank_icon=github" alt="DevCop95's GitHub stats" />
 &nbsp;
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DevCop95&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&text_color=c9d1d9&langs_count=8&cache_bust=1791289650" />
-
-<br><br>
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevCop95&theme=github_dark&bg_color=0d1117&title_color=dc2626&text_color=c9d1d9&icon_color=dc2626&chart_color=dc2626&border_color=30363d" alt="GitHub activity summary for DevCop95" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DevCop95&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&text_color=c9d1d9&langs_count=8" alt="DevCop95's most used languages" />
 
 </div>
 
 ---
 
-## 🌐 Connect
-
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-dev101x.online-ef4444?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dev101x.online/)
-[![Courses](https://img.shields.io/badge/Courses-cursos.dev101x.online-ef4444?style=for-the-badge&logo=bookstack&logoColor=white)](https://cursos.dev101x.online/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevCop95)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yared--Dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yared-dev)
-[![HackerOne](https://img.shields.io/badge/HackerOne-Dev101x-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/Dev101x)
-[![X](https://img.shields.io/badge/X-@Devcop101-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Devcop101)
-
-<br>
-
 <i>"Security is not a product, but a process. Code is poetry. Ship it."</i>
-
-<br>
 
 <sub>⭐️ From <a href="https://github.com/DevCop95">DevCop95</a> · Colombian Ethical Hacker · Cartagena, Colombia 🇨🇴</sub>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=dc2626&height=100&section=footer"/>
