@@ -20,6 +20,11 @@ from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
 README = "README.md"
 
+# Bucket the cache-buster to the cron window. Two runs inside the same window
+# therefore produce the same URL, so a manual re-dispatch does not create a
+# pointless commit when nothing actually changed.
+REFRESH_INTERVAL_S = 6 * 60 * 60  # keep in sync with the cron schedule
+
 # Hosts whose URLs are dynamic stat cards worth busting.
 DYNAMIC_HOST_RE = re.compile(
     r"https://(?:"
@@ -89,7 +94,7 @@ def main() -> int:
         print(f"::error::cannot read {README}: {exc}", file=sys.stderr)
         return 1
 
-    timestamp = int(time.time())
+    timestamp = (int(time.time()) // REFRESH_INTERVAL_S) * REFRESH_INTERVAL_S
     updated, count = update_readme(original, timestamp)
 
     if updated == original:
