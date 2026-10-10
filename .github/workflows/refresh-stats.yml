@@ -1,0 +1,47 @@
+name: Refresh repo stats badges
+
+on:
+  schedule:
+    # Every 6 hours. shields.io already refreshes on its own ~every 30 min;
+    # this run just forces GitHub's Camo CDN to drop its cached copy.
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/refresh-stats.yml"
+      - ".github/scripts/refresh-stats.py"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-stats
+  cancel-in-progress: true
+
+jobs:
+  refresh-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Refresh badge cache-busters
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/refresh-stats.py
+
+      - name: Commit if changed
+        run: |
+          if [[ -n $(git status --porcelain README.md) ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: refresh stats badge cache"
+            git push
+          else
+            echo "README unchanged - skipping commit."
+          fi
