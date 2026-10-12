@@ -30,6 +30,7 @@ DYNAMIC_HOST_RE = re.compile(
     r"https://(?:"
     r"img\.shields\.io/github/"  # shields.io stars/forks/watchers badges
     r"|github-readme-stats\.vercel\.app/"  # official stats + top-langs + pins
+    r"|komarev\.com/ghpvc/"  # profile views counter badge
     r")[^\s\"'\)>]+"
 )
 

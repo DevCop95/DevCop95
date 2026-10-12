@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yared--dev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yared-dev)
 [![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/Dev101x)
 [![X](https://img.shields.io/badge/@Devcop101-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Devcop101)
-[![Profile views](https://komarev.com/ghpvc/?username=DevCop95&style=flat-square&color=dc2626&label=views)](https://github.com/DevCop95)
+[![Profile views](https://komarev.com/ghpvc/?username=DevCop95&style=flat-square&color=ef4444&label=views&v=1791828000)](https://github.com/DevCop95)
 
 </div>
 
@@ -55,17 +55,17 @@ dev101x@kali:~$ cat focus.txt
 
 <div align="center">
 
-[![bugbounty-lab101](https://github-readme-stats.vercel.app/api/pin/?username=DevCop95&repo=bugbounty-lab101&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&v=1791806400)](https://github.com/DevCop95/bugbounty-lab101)
+[![bugbounty-lab101](https://github-readme-stats.vercel.app/api/pin/?username=DevCop95&repo=bugbounty-lab101&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&v=1791828000)](https://github.com/DevCop95/bugbounty-lab101)
 <br>
-[![bugbounty-lab101 Stars](https://img.shields.io/github/stars/DevCop95/bugbounty-lab101?style=for-the-badge&logo=github&label=Stars&labelColor=0d1117&color=ef4444&v=1791806400)](https://github.com/DevCop95/bugbounty-lab101/stargazers)
-[![bugbounty-lab101 Forks](https://img.shields.io/github/forks/DevCop95/bugbounty-lab101?style=for-the-badge&logo=github&label=Forks&labelColor=0d1117&color=494649&v=1791806400)](https://github.com/DevCop95/bugbounty-lab101/network/members)
+[![bugbounty-lab101 Stars](https://img.shields.io/github/stars/DevCop95/bugbounty-lab101?style=for-the-badge&logo=github&label=Stars&labelColor=0d1117&color=ef4444&v=1791828000)](https://github.com/DevCop95/bugbounty-lab101/stargazers)
+[![bugbounty-lab101 Forks](https://img.shields.io/github/forks/DevCop95/bugbounty-lab101?style=for-the-badge&logo=github&label=Forks&labelColor=0d1117&color=494649&v=1791828000)](https://github.com/DevCop95/bugbounty-lab101/network/members)
 
 <br>
 
-[![shodan_reconsx](https://github-readme-stats.vercel.app/api/pin/?username=DevCop95&repo=shodan_reconsx&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&v=1791806400)](https://github.com/DevCop95/shodan_reconsx)
+[![shodan_reconsx](https://github-readme-stats.vercel.app/api/pin/?username=DevCop95&repo=shodan_reconsx&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&v=1791828000)](https://github.com/DevCop95/shodan_reconsx)
 <br>
-[![shodan_reconsx Stars](https://img.shields.io/github/stars/DevCop95/shodan_reconsx?style=for-the-badge&logo=github&label=Stars&labelColor=0d1117&color=ef4444&v=1791806400)](https://github.com/DevCop95/shodan_reconsx/stargazers)
-[![shodan_reconsx Forks](https://img.shields.io/github/forks/DevCop95/shodan_reconsx?style=for-the-badge&logo=github&label=Forks&labelColor=0d1117&color=494649&v=1791806400)](https://github.com/DevCop95/shodan_reconsx/network/members)
+[![shodan_reconsx Stars](https://img.shields.io/github/stars/DevCop95/shodan_reconsx?style=for-the-badge&logo=github&label=Stars&labelColor=0d1117&color=ef4444&v=1791828000)](https://github.com/DevCop95/shodan_reconsx/stargazers)
+[![shodan_reconsx Forks](https://img.shields.io/github/forks/DevCop95/shodan_reconsx?style=for-the-badge&logo=github&label=Forks&labelColor=0d1117&color=494649&v=1791828000)](https://github.com/DevCop95/shodan_reconsx/network/members)
 
 </div>
 
@@ -74,7 +74,7 @@ dev101x@kali:~$ cat focus.txt
 | 🛡️ [**LOLBAS-Project/LOLBAS**](https://github.com/LOLBAS-Project/LOLBAS/pull/525) | `Official Contributor` · `MITRE T1562.001` | Native Windows binary technique for defense evasion (PR #525, merged) |
 | 🏹 [**bugbounty-lab101**](https://github.com/DevCop95/bugbounty-lab101) | `Shell` · `Recon` | Bug bounty workspace: recon/vuln pipeline, report templates, scope enforcement |
 | 🧪 [**dev101x-pentest-lab**](https://github.com/DevCop95/dev101x-pentest-lab) | `Docker` · `Python` | Self-contained Pro Lab-style box: blind SQLi → pivot → SUID privesc, with live flag validation |
-| 🏦 [**BDB-Guardian**](https://github.com/DevCop95/BDB-Guardian) | `PowerShell` | SecOps / forensics tooling for incident-response simulation |
+| 🛡️ [**BDB-Guardian**](https://github.com/DevCop95/BDB-Guardian) | PowerShell | Win Defender DoS defensive monitor (cited by CUHK ITSC & LOLBAS) |
 | 🔍 [**shodan_reconsx**](https://github.com/DevCop95/shodan_reconsx) | `Python` · `Shodan` | OSINT recon framework built on the Shodan API |
 | 🤖 [**cyhber-deploy**](https://github.com/DevCop95/cyhber-deploy) | `Python` | Security skill layer for AI coding agents |
 
@@ -128,9 +128,9 @@ dev101x@kali:~$ cat focus.txt
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DevCop95&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&rank_icon=github&v=1791806400" alt="DevCop95's GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DevCop95&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&rank_icon=github&v=1791828000" alt="DevCop95's GitHub stats" />
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCop95&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&text_color=c9d1d9&langs_count=8&v=1791806400" alt="DevCop95's most used languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCop95&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&text_color=c9d1d9&langs_count=8&v=1791828000" alt="DevCop95's most used languages" />
 
 </div>
 
