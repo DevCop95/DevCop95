@@ -29,7 +29,7 @@ REFRESH_INTERVAL_S = 6 * 60 * 60  # keep in sync with the cron schedule
 DYNAMIC_HOST_RE = re.compile(
     r"https://(?:"
     r"img\.shields\.io/github/"  # shields.io stars/forks/watchers badges
-    r"|github-readme-stats\.vercel\.app/"  # official stats + top-langs + pins
+    r"|github-(?:readme-stats|stats-extended)[^\.]*\.vercel\.app/"  # official stats/mirrors + top-langs + pins
     r"|komarev\.com/ghpvc/"  # profile views counter badge
     r")[^\s\"'\)>]+"
 )
