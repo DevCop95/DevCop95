@@ -5,8 +5,8 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dev101x.online-ef4444?style=flat-square&logo=googlechrome&logoColor=white)](https://dev101x.online/)
 [![LOLBAS Contributor](https://img.shields.io/badge/LOLBAS-Official_Contributor-00c466?style=flat-square&logo=github&logoColor=white)](https://github.com/LOLBAS-Project/LOLBAS/pull/525)
+[![Atomic Red Team Contributor](https://img.shields.io/badge/Atomic_Red_Team-Official_Contributor-d00000?style=flat-square&logo=github&logoColor=white)](https://github.com/redcanaryco/atomic-red-team/pull/3433)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yared--dev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yared-dev)
-[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/Dev101x)
 [![X](https://img.shields.io/badge/@Devcop101-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Devcop101)
 [![Profile views](https://komarev.com/ghpvc/?username=DevCop95&style=flat-square&color=ef4444&label=views&v=1793880000)](https://github.com/DevCop95)
 
@@ -26,7 +26,7 @@ Focus: **offensive security, vulnerability research, and autonomous AI agent arc
 dev101x@kali:~$ cat focus.txt
 ```
 
-- 🛡️ **Vulnerability Research:** Authored the Windows `Fsutil.exe` defense-evasion technique in the official [LOLBAS Project (PR #525, merged)](https://github.com/LOLBAS-Project/LOLBAS/pull/525) — [MITRE ATT&CK T1562.001](https://attack.mitre.org/techniques/T1562/001/).
+- 🛡️ **Vulnerability Research & Threat Emulation:** Authored Windows defense-evasion techniques in [LOLBAS (PR #525, merged)](https://github.com/LOLBAS-Project/LOLBAS/pull/525) and KeePass adversary emulation tests in [Atomic Red Team (PR #3433, merged)](https://github.com/redcanaryco/atomic-red-team/pull/3433) — [MITRE ATT&CK T1562.001](https://attack.mitre.org/techniques/T1562/001/) & [T1555.005](https://attack.mitre.org/techniques/T1555/005/).
 - 🎯 **Offensive Security:** Bug bounty hunter on **HackerOne**; builds automated recon/vuln pipelines and OSINT tooling (see pinned projects below).
 - 🤖 **Applied AI:** Security skill layers and LLM integration pipelines (LangChain · Python).
 - 🤝 Open to **Red Teaming**, **Applied AI Security**, and technical consulting engagements.
@@ -48,6 +48,12 @@ dev101x@kali:~$ cat focus.txt
 | **Binary & Technique** | `Fsutil.exe` — Defense Evasion via 8dot3 Name Creation Tampering |
 | **Pull Request** | [LOLBAS-Project/LOLBAS #525 (Merged)](https://github.com/LOLBAS-Project/LOLBAS/pull/525) |
 | **MITRE ATT&CK** | [T1562.001: Impair Defenses — Disable or Modify Tools](https://attack.mitre.org/techniques/T1562/001/) |
+
+<br>
+
+| Upstream Project | Technique & Emulation Scope | Pull Request | MITRE ATT&CK |
+|---|---|---|---|
+| 🔴 [**Red Canary · Atomic Red Team**](https://github.com/redcanaryco/atomic-red-team) | Multi-platform KeePass discovery, config parsing (`KeePass.config.xml`) & exfiltration staging (PowerShell, CMD, Linux `sh`) | [![PR #3433 Merged](https://img.shields.io/badge/PR_%233433-MERGED-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/redcanaryco/atomic-red-team/pull/3433) | [T1555.005: Password Managers](https://attack.mitre.org/techniques/T1555/005/) |
 
 ---
 
@@ -72,6 +78,7 @@ dev101x@kali:~$ cat focus.txt
 | Project | Stack | Description |
 |---|---|---|
 | 🛡️ [**LOLBAS-Project/LOLBAS**](https://github.com/LOLBAS-Project/LOLBAS/pull/525) | `Official Contributor` · `MITRE T1562.001` | Native Windows binary technique for defense evasion (PR #525, merged) |
+| 🔴 [**redcanaryco/atomic-red-team**](https://github.com/redcanaryco/atomic-red-team/pull/3433) | `Official Contributor` · `MITRE T1555.005` | Adversary emulation suite for KeePass discovery and exfiltration (PR #3433, merged) |
 | 🏹 [**bugbounty-lab101**](https://github.com/DevCop95/bugbounty-lab101) | `Shell` · `Recon` | Bug bounty workspace: recon/vuln pipeline, report templates, scope enforcement |
 | 🧪 [**dev101x-pentest-lab**](https://github.com/DevCop95/dev101x-pentest-lab) | `Docker` · `Python` | Self-contained Pro Lab-style box: blind SQLi → pivot → SUID privesc, with live flag validation |
 | 🛡️ [**BDB-Guardian**](https://github.com/DevCop95/BDB-Guardian) | PowerShell | Win Defender DoS defensive monitor (cited by CUHK ITSC & LOLBAS) |
