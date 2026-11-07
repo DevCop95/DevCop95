@@ -46,9 +46,9 @@ dev101x@kali:~$ cat focus.txt
 
 | Component | Detail |
 |---|---|
-| **Binary & Technique** | `Fsutil.exe` — Defense Evasion via 8dot3 Name Creation Tampering |
+| **Binary & Technique** | `Fsutil.exe` (`file createnew`) — Windows Defender Antivirus Impairment via Disk Exhaustion |
 | **Pull Request** | [LOLBAS-Project/LOLBAS #525 (Merged)](https://github.com/LOLBAS-Project/LOLBAS/pull/525) |
-| **MITRE ATT&CK** | [T1562.001: Impair Defenses — Disable or Modify Tools](https://attack.mitre.org/techniques/T1562/001/) |
+| **MITRE ATT&CK** | [T1685 / T1562.001: Disable or Modify Tools](https://attack.mitre.org/techniques/T1685/) |
 
 <br>
 
@@ -86,8 +86,9 @@ dev101x@kali:~$ cat focus.txt
 | 🏹 [**bugbounty-lab101**](https://github.com/DevCop95/bugbounty-lab101) | `Shell` · `Recon` | Bug bounty workspace: recon/vuln pipeline, report templates, scope enforcement |
 | 🧪 [**dev101x-pentest-lab**](https://github.com/DevCop95/dev101x-pentest-lab) | `Docker` · `Python` | Self-contained Pro Lab-style box: blind SQLi → pivot → SUID privesc, with live flag validation |
 | 🛡️ [**BDB-Guardian**](https://github.com/DevCop95/BDB-Guardian) | PowerShell | Win Defender DoS defensive monitor (cited by CUHK ITSC, LOLBAS #525 & Atomic Red Team #3439) |
+| 🔒 [**pullgoscript**](https://github.com/DevCop95/pullgoscript) | `Go` · `Assembly` | Windows credential-exposure audit toolkit & hardened 127.0.0.1 console (T1003/T1555/T1547/T1055) |
 | 🔍 [**shodan_reconsx**](https://github.com/DevCop95/shodan_reconsx) | `Python` · `Shodan` | OSINT recon framework built on the Shodan API |
-| 🤖 [**cyhber-deploy**](https://github.com/DevCop95/cyhber-deploy) | `Python` | Security skill layer for AI coding agents |
+| 🤖 [**cyhber-deploy**](https://github.com/DevCop95/cyhber-deploy) | `Python` | Security skill layer for AI coding agents (Grade A on SkillsDirectory) |
 
 </div>
 
@@ -122,7 +123,7 @@ dev101x@kali:~$ cat focus.txt
 |---|---|---|
 | 2026 — present | 🛡️ Penetration Tester | Henkel · Switzerland (Remote · Part-time) |
 | 2022 — 2025 | 🏢 Chief Technology Officer | EXIA S.A.S — Cartagena, CO |
-| 2021 — 2024 | 💻 Semi-Senior Developer | Google |
+| 2021 — 2024 | 💻 Associate Software Developer (QA & Testing) | Google (Affiliate / Extended Workforce) |
 | 2020 — present | 🚀 Freelance · Offensive Security & AI | Independent |
 
 ## 🎓 Education
