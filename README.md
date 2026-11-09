@@ -9,7 +9,7 @@
 [![LOLRMM Contributor](https://img.shields.io/badge/LOLRMM-Official_Contributor-0078D4?style=flat-square&logo=github&logoColor=white)](https://github.com/magicsword-io/LOLRMM/pull/253)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yared--dev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yared-dev)
 [![X](https://img.shields.io/badge/@Devcop101-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Devcop101)
-[![Profile views](https://komarev.com/ghpvc/?username=DevCop95&style=flat-square&color=ef4444&label=views&v=1794160800)](https://github.com/DevCop95)
+[![Profile views](https://komarev.com/ghpvc/?username=DevCop95&style=flat-square&color=ef4444&label=views&v=1794182400)](https://github.com/DevCop95)
 
 </div>
 
@@ -64,17 +64,17 @@ dev101x@kali:~$ cat focus.txt
 
 <div align="center">
 
-[![bugbounty-lab101](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DevCop95&repo=bugbounty-lab101&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&v=1794160800)](https://github.com/DevCop95/bugbounty-lab101)
+[![bugbounty-lab101](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DevCop95&repo=bugbounty-lab101&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&v=1794182400)](https://github.com/DevCop95/bugbounty-lab101)
 <br>
-[![bugbounty-lab101 Stars](https://img.shields.io/github/stars/DevCop95/bugbounty-lab101?style=for-the-badge&logo=github&label=Stars&labelColor=0d1117&color=ef4444&v=1794160800)](https://github.com/DevCop95/bugbounty-lab101/stargazers)
-[![bugbounty-lab101 Forks](https://img.shields.io/github/forks/DevCop95/bugbounty-lab101?style=for-the-badge&logo=github&label=Forks&labelColor=0d1117&color=494649&v=1794160800)](https://github.com/DevCop95/bugbounty-lab101/network/members)
+[![bugbounty-lab101 Stars](https://img.shields.io/github/stars/DevCop95/bugbounty-lab101?style=for-the-badge&logo=github&label=Stars&labelColor=0d1117&color=ef4444&v=1794182400)](https://github.com/DevCop95/bugbounty-lab101/stargazers)
+[![bugbounty-lab101 Forks](https://img.shields.io/github/forks/DevCop95/bugbounty-lab101?style=for-the-badge&logo=github&label=Forks&labelColor=0d1117&color=494649&v=1794182400)](https://github.com/DevCop95/bugbounty-lab101/network/members)
 
 <br>
 
-[![shodan_reconsx](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DevCop95&repo=shodan_reconsx&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&v=1794160800)](https://github.com/DevCop95/shodan_reconsx)
+[![shodan_reconsx](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DevCop95&repo=shodan_reconsx&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&v=1794182400)](https://github.com/DevCop95/shodan_reconsx)
 <br>
-[![shodan_reconsx Stars](https://img.shields.io/github/stars/DevCop95/shodan_reconsx?style=for-the-badge&logo=github&label=Stars&labelColor=0d1117&color=ef4444&v=1794160800)](https://github.com/DevCop95/shodan_reconsx/stargazers)
-[![shodan_reconsx Forks](https://img.shields.io/github/forks/DevCop95/shodan_reconsx?style=for-the-badge&logo=github&label=Forks&labelColor=0d1117&color=494649&v=1794160800)](https://github.com/DevCop95/shodan_reconsx/network/members)
+[![shodan_reconsx Stars](https://img.shields.io/github/stars/DevCop95/shodan_reconsx?style=for-the-badge&logo=github&label=Stars&labelColor=0d1117&color=ef4444&v=1794182400)](https://github.com/DevCop95/shodan_reconsx/stargazers)
+[![shodan_reconsx Forks](https://img.shields.io/github/forks/DevCop95/shodan_reconsx?style=for-the-badge&logo=github&label=Forks&labelColor=0d1117&color=494649&v=1794182400)](https://github.com/DevCop95/shodan_reconsx/network/members)
 
 </div>
 
@@ -140,9 +140,9 @@ dev101x@kali:~$ cat focus.txt
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DevCop95&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&rank_icon=github&v=1794160800" alt="DevCop95's GitHub stats" />
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DevCop95&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&rank_icon=github&v=1794182400" alt="DevCop95's GitHub stats" />
 &nbsp;
-<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DevCop95&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&text_color=c9d1d9&langs_count=8&v=1794160800" alt="DevCop95's most used languages" />
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DevCop95&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=dc2626&text_color=c9d1d9&langs_count=8&v=1794182400" alt="DevCop95's most used languages" />
 
 </div>
 
