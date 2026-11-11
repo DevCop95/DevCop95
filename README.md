@@ -1,7 +1,7 @@
 <div align="center">
 <img src="assets/img/dev101x_banner.png" alt="DEV101X banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=EF4444&center=true&vCenter=true&width=640&lines=Colombian+Ethical+Hacker+%7C+Security+Researcher+%F0%9F%9B%A1%EF%B8%8F;LOLBAS+Official+Contributor+%F0%9F%94%8E;Penetration+Tester+%40+Henkel+%F0%9F%9B%A1%EF%B8%8F;M.Sc.+in+AI+%E2%80%94+Universitat+de+Barcelona" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=EF4444&center=true&vCenter=true&width=640&lines=Colombian+Ethical+Hacker+%7C+Security+Researcher+%F0%9F%9B%A1%EF%B8%8F;LOLBAS+%C2%B7+Atomic+Red+Team+%C2%B7+LOLRMM+Contributor+%F0%9F%94%8E;Penetration+Tester+%40+Henkel+%F0%9F%9B%A1%EF%B8%8F;M.Sc.+in+AI+%E2%80%94+Universitat+de+Barcelona" alt="Typing SVG"/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dev101x.online-ef4444?style=flat-square&logo=googlechrome&logoColor=white)](https://dev101x.online/)
 [![LOLBAS Contributor](https://img.shields.io/badge/LOLBAS-Official_Contributor-00c466?style=flat-square&logo=github&logoColor=white)](https://github.com/LOLBAS-Project/LOLBAS/pull/525)
@@ -9,6 +9,7 @@
 [![LOLRMM Contributor](https://img.shields.io/badge/LOLRMM-Official_Contributor-0078D4?style=flat-square&logo=github&logoColor=white)](https://github.com/magicsword-io/LOLRMM/pull/253)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yared--dev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yared-dev)
 [![X](https://img.shields.io/badge/@Devcop101-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Devcop101)
+[![Email](https://img.shields.io/badge/Email-yared.henriquezb-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yared.henriquezb@gmail.com)
 [![Profile views](https://komarev.com/ghpvc/?username=DevCop95&style=flat-square&color=ef4444&label=views&v=1794355200)](https://github.com/DevCop95)
 
 </div>
@@ -27,10 +28,10 @@ Focus: **offensive security, vulnerability research, and autonomous AI agent arc
 dev101x@kali:~$ cat focus.txt
 ```
 
-- 🛡️ **Vulnerability Research & Threat Emulation:** Authored Windows defense-evasion techniques in [LOLBAS (PR #525, merged)](https://github.com/LOLBAS-Project/LOLBAS/pull/525), KeePass & Windows Defender disk-exhaustion adversary emulation tests in Atomic Red Team ([PR #3433](https://github.com/redcanaryco/atomic-red-team/pull/3433) & [PR #3439](https://github.com/redcanaryco/atomic-red-team/pull/3439), merged), and AnyDesk custom client detection & Sigma rules in [LOLRMM (PR #253, merged)](https://github.com/magicsword-io/LOLRMM/pull/253) — [MITRE ATT&CK T1562.001 / T1685](https://attack.mitre.org/techniques/T1562/001/), [T1555.005](https://attack.mitre.org/techniques/T1555/005/) & [T1219](https://attack.mitre.org/techniques/T1219/).
-- 🎯 **Offensive Security:** Bug bounty hunter on **HackerOne**; builds automated recon/vuln pipelines and OSINT tooling (see pinned projects below).
+- 🛡️ **Vulnerability Research & Threat Emulation:** Windows defense-evasion techniques, adversary emulation tests and detection rules merged upstream in **LOLBAS**, **Atomic Red Team** and **LOLRMM** (details below).
+- 🎯 **Offensive Security:** Bug bounty hunter on **HackerOne private programs**; builds automated recon/vuln pipelines and OSINT tooling (see pinned projects below).
 - 🤖 **Applied AI:** Security skill layers and LLM integration pipelines (LangChain · Python).
-- 🤝 Open to **Red Teaming**, **Applied AI Security**, and technical consulting engagements.
+- 🤝 Open to **Red Teaming**, **Applied AI Security**, and technical consulting engagements — 📫 [yared.henriquezb@gmail.com](mailto:yared.henriquezb@gmail.com).
 
 > ⚠️ **Authorized use only.** Every offensive/security tool linked below is built for use in scoped engagements, CTFs, bug bounty programs and environments the operator owns or is authorized to test. None of it is intended for use against systems without explicit permission.
 
@@ -44,18 +45,11 @@ dev101x@kali:~$ cat focus.txt
   </a>
 </div>
 
-| Component | Detail |
-|---|---|
-| **Binary & Technique** | `Fsutil.exe` (`file createnew`) — Windows Defender Antivirus Impairment via Disk Exhaustion |
-| **Pull Request** | [LOLBAS-Project/LOLBAS #525 (Merged)](https://github.com/LOLBAS-Project/LOLBAS/pull/525) |
-| **MITRE ATT&CK** | [T1685 / T1562.001: Disable or Modify Tools](https://attack.mitre.org/techniques/T1685/) |
-
-<br>
-
 | Upstream Project | Technique & Emulation Scope | Pull Request | MITRE ATT&CK |
 |---|---|---|---|
+| 🛡️ [**LOLBAS Project · LOLBAS**](https://github.com/LOLBAS-Project/LOLBAS) | `Fsutil.exe` (`file createnew`) — Windows Defender Antivirus impairment via disk exhaustion | [![PR #525 Merged](https://img.shields.io/badge/PR_%23525-MERGED-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/LOLBAS-Project/LOLBAS/pull/525) | [T1685 (formerly T1562.001): Disable or Modify Tools](https://attack.mitre.org/techniques/T1685/) |
 | 🔴 [**Red Canary · Atomic Red Team**](https://github.com/redcanaryco/atomic-red-team) | Multi-platform KeePass discovery, config parsing (`KeePass.config.xml`) & exfiltration staging (PowerShell, CMD, Linux `sh`) | [![PR #3433 Merged](https://img.shields.io/badge/PR_%233433-MERGED-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/redcanaryco/atomic-red-team/pull/3433) | [T1555.005: Password Managers](https://attack.mitre.org/techniques/T1555/005/) |
-| 🔴 [**Red Canary · Atomic Red Team**](https://github.com/redcanaryco/atomic-red-team) | Windows Defender Antivirus impairment via `fsutil.exe file createnew` hidden GUID disk exhaustion in `%TEMP%` (BigDiskBuster telemetry) | [![PR #3439 Merged](https://img.shields.io/badge/PR_%233439-MERGED-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/redcanaryco/atomic-red-team/pull/3439) | [T1685 / T1562.001: Disable or Modify Tools](https://attack.mitre.org/techniques/T1562/001/) |
+| 🔴 [**Red Canary · Atomic Red Team**](https://github.com/redcanaryco/atomic-red-team) | Windows Defender Antivirus impairment via `fsutil.exe file createnew` hidden GUID disk exhaustion in `%TEMP%` (BigDiskBuster telemetry) | [![PR #3439 Merged](https://img.shields.io/badge/PR_%233439-MERGED-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/redcanaryco/atomic-red-team/pull/3439) | [T1685 (formerly T1562.001): Disable or Modify Tools](https://attack.mitre.org/techniques/T1685/) |
 | 🗡️ [**magicsword-io · LOLRMM**](https://github.com/magicsword-io/LOLRMM) | AnyDesk custom per-org client coverage: service normalization, trace files (`ad_*`), EventLog 7045, and Sigma detection rules | [![PR #253 Merged](https://img.shields.io/badge/PR_%23253-MERGED-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/magicsword-io/LOLRMM/pull/253) | [T1219: Remote Access Software](https://attack.mitre.org/techniques/T1219/) |
 
 ---
@@ -80,17 +74,12 @@ dev101x@kali:~$ cat focus.txt
 
 | Project | Stack | Description |
 |---|---|---|
-| 🛡️ [**LOLBAS-Project/LOLBAS**](https://github.com/LOLBAS-Project/LOLBAS/pull/525) | `Official Contributor` · `MITRE T1562.001` | Native Windows binary technique for defense evasion (PR #525, merged) |
-| 🔴 [**redcanaryco/atomic-red-team**](https://github.com/redcanaryco/atomic-red-team/pulls?q=is%3Apr+author%3ADevCop95+is%3Amerged) | `Official Contributor` · `MITRE T1555.005 · T1685` | Adversary emulation tests for KeePass credential access & Windows Defender disk exhaustion ([PR #3433](https://github.com/redcanaryco/atomic-red-team/pull/3433), [PR #3439](https://github.com/redcanaryco/atomic-red-team/pull/3439), merged) |
-| 🗡️ [**magicsword-io/LOLRMM**](https://github.com/magicsword-io/LOLRMM/pull/253) | `Official Contributor` · `MITRE T1219` | Living Off The Land RMM: AnyDesk custom client detection & Sigma rules (PR #253, merged) |
 | 🏹 [**bugbounty-lab101**](https://github.com/DevCop95/bugbounty-lab101) | `Shell` · `Recon` | Bug bounty workspace: recon/vuln pipeline, report templates, scope enforcement |
 | 🧪 [**dev101x-pentest-lab**](https://github.com/DevCop95/dev101x-pentest-lab) | `Docker` · `Python` | Self-contained Pro Lab-style box: blind SQLi → pivot → SUID privesc, with live flag validation |
-| 🛡️ [**BDB-Guardian**](https://github.com/DevCop95/BDB-Guardian) | PowerShell | Win Defender DoS defensive monitor (cited by CUHK ITSC, LOLBAS #525 & Atomic Red Team #3439) |
+| 🛡️ [**BDB-Guardian**](https://github.com/DevCop95/BDB-Guardian) | `PowerShell` | Win Defender DoS defensive monitor (cited by CUHK ITSC, LOLBAS #525 & Atomic Red Team #3439) |
 | 🔒 [**pullgoscript**](https://github.com/DevCop95/pullgoscript) | `Go` · `Assembly` | Windows credential-exposure audit toolkit & hardened 127.0.0.1 console (T1003/T1555/T1547/T1055) |
 | 🔍 [**shodan_reconsx**](https://github.com/DevCop95/shodan_reconsx) | `Python` · `Shodan` | OSINT recon framework built on the Shodan API |
 | 🤖 [**cyhber-deploy**](https://github.com/DevCop95/cyhber-deploy) | `Python` | Security skill layer for AI coding agents (Grade A on SkillsDirectory) |
-
-</div>
 
 ---
 
@@ -101,6 +90,8 @@ dev101x@kali:~$ cat focus.txt
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -110,7 +101,7 @@ dev101x@kali:~$ cat focus.txt
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 </div>
@@ -153,8 +144,16 @@ dev101x@kali:~$ cat focus.txt
 <div align="center">
 
 <a href="https://profile.hackthebox.com/profile/019f8d0f-a8d2-73bb-8f12-d863b7261aa3">
-  <img src="assets/img/htb_stats.png" alt="dev101x HackTheBox stats" width="100%" />
+  <img src="assets/img/htb_stats.png" alt="dev101x on HackTheBox — Pro Hacker, Top 3 Colombia" width="640" />
 </a>
+
+<br>
+
+[![HTB Rank](https://img.shields.io/badge/Rank-Pro_Hacker-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=0d1117)](https://profile.hackthebox.com/profile/019f8d0f-a8d2-73bb-8f12-d863b7261aa3)
+[![HTB Country Ranking](https://img.shields.io/badge/Colombia-Top_3-ef4444?style=for-the-badge&labelColor=0d1117)](https://profile.hackthebox.com/profile/019f8d0f-a8d2-73bb-8f12-d863b7261aa3)
+[![HTB Profile](https://img.shields.io/badge/View_live_profile-dev101x-494649?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=0d1117)](https://profile.hackthebox.com/profile/019f8d0f-a8d2-73bb-8f12-d863b7261aa3)
+
+<sub>Snapshot from November 2026 · click the card for live stats</sub>
 
 </div>
 
