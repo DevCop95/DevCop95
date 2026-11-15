@@ -12,26 +12,26 @@
     </clipPath>
   </defs>
   <g clip-path="url(#bar-clip)">
-    <rect x="25.00" y="50" width="260.45" height="8" fill="#e34c26"/>
-    <rect x="285.45" y="50" width="16.23" height="8" fill="#f1e05a"/>
-    <rect x="301.68" y="50" width="6.95" height="8" fill="#3572A5"/>
-    <rect x="308.63" y="50" width="4.26" height="8" fill="#00ADD8"/>
-    <rect x="312.89" y="50" width="3.90" height="8" fill="#41b883"/>
+    <rect x="25.00" y="50" width="260.51" height="8" fill="#e34c26"/>
+    <rect x="285.51" y="50" width="16.20" height="8" fill="#f1e05a"/>
+    <rect x="301.71" y="50" width="6.94" height="8" fill="#3572A5"/>
+    <rect x="308.65" y="50" width="4.25" height="8" fill="#00ADD8"/>
+    <rect x="312.90" y="50" width="3.89" height="8" fill="#41b883"/>
     <rect x="316.79" y="50" width="3.32" height="8" fill="#89e051"/>
     <rect x="320.11" y="50" width="2.89" height="8" fill="#4F5D95"/>
     <rect x="323.00" y="50" width="2.00" height="8" fill="#663399"/>
   </g>
   <g transform="translate(25, 82)">
     <circle cx="5" cy="-4" r="5" fill="#e34c26"/>
-    <text x="16" y="0" class="lang">HTML <tspan class="pct">86.82%</tspan></text>
+    <text x="16" y="0" class="lang">HTML <tspan class="pct">86.84%</tspan></text>
   </g>
   <g transform="translate(175, 82)">
     <circle cx="5" cy="-4" r="5" fill="#f1e05a"/>
-    <text x="16" y="0" class="lang">JavaScript <tspan class="pct">5.41%</tspan></text>
+    <text x="16" y="0" class="lang">JavaScript <tspan class="pct">5.40%</tspan></text>
   </g>
   <g transform="translate(25, 107)">
     <circle cx="5" cy="-4" r="5" fill="#3572A5"/>
-    <text x="16" y="0" class="lang">Python <tspan class="pct">2.32%</tspan></text>
+    <text x="16" y="0" class="lang">Python <tspan class="pct">2.31%</tspan></text>
   </g>
   <g transform="translate(175, 107)">
     <circle cx="5" cy="-4" r="5" fill="#00ADD8"/>
