@@ -29,19 +29,19 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Refresh badge cache-busters
+      - name: Refresh SVG cards and badge cache-busters
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python .github/scripts/refresh-stats.py
 
       - name: Commit if changed
         run: |
-          if [[ -n $(git status --porcelain README.md) ]]; then
+          if [[ -n $(git status --porcelain README.md assets/stats) ]]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add README.md
+            git add README.md assets/stats
             git commit -m "chore: refresh stats badge cache"
             git push
           else
-            echo "README unchanged - skipping commit."
+            echo "Stats unchanged - skipping commit."
           fi
