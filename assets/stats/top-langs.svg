@@ -12,22 +12,22 @@
     </clipPath>
   </defs>
   <g clip-path="url(#bar-clip)">
-    <rect x="25.00" y="50" width="260.69" height="8" fill="#e34c26"/>
-    <rect x="285.69" y="50" width="16.13" height="8" fill="#f1e05a"/>
-    <rect x="301.82" y="50" width="6.91" height="8" fill="#3572A5"/>
-    <rect x="308.73" y="50" width="4.23" height="8" fill="#00ADD8"/>
-    <rect x="312.96" y="50" width="3.87" height="8" fill="#41b883"/>
-    <rect x="316.83" y="50" width="3.30" height="8" fill="#89e051"/>
-    <rect x="320.13" y="50" width="2.88" height="8" fill="#4F5D95"/>
+    <rect x="25.00" y="50" width="260.80" height="8" fill="#e34c26"/>
+    <rect x="285.80" y="50" width="16.08" height="8" fill="#f1e05a"/>
+    <rect x="301.88" y="50" width="6.89" height="8" fill="#3572A5"/>
+    <rect x="308.77" y="50" width="4.22" height="8" fill="#00ADD8"/>
+    <rect x="312.99" y="50" width="3.86" height="8" fill="#41b883"/>
+    <rect x="316.85" y="50" width="3.29" height="8" fill="#89e051"/>
+    <rect x="320.14" y="50" width="2.87" height="8" fill="#4F5D95"/>
     <rect x="323.01" y="50" width="2.00" height="8" fill="#663399"/>
   </g>
   <g transform="translate(25, 82)">
     <circle cx="5" cy="-4" r="5" fill="#e34c26"/>
-    <text x="16" y="0" class="lang">HTML <tspan class="pct">86.90%</tspan></text>
+    <text x="16" y="0" class="lang">HTML <tspan class="pct">86.93%</tspan></text>
   </g>
   <g transform="translate(175, 82)">
     <circle cx="5" cy="-4" r="5" fill="#f1e05a"/>
-    <text x="16" y="0" class="lang">JavaScript <tspan class="pct">5.38%</tspan></text>
+    <text x="16" y="0" class="lang">JavaScript <tspan class="pct">5.36%</tspan></text>
   </g>
   <g transform="translate(25, 107)">
     <circle cx="5" cy="-4" r="5" fill="#3572A5"/>
