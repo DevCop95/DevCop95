@@ -12,18 +12,18 @@
     </clipPath>
   </defs>
   <g clip-path="url(#bar-clip)">
-    <rect x="25.00" y="50" width="260.63" height="8" fill="#e34c26"/>
-    <rect x="285.63" y="50" width="16.15" height="8" fill="#f1e05a"/>
-    <rect x="301.78" y="50" width="6.92" height="8" fill="#3572A5"/>
-    <rect x="308.70" y="50" width="4.24" height="8" fill="#00ADD8"/>
-    <rect x="312.94" y="50" width="3.88" height="8" fill="#41b883"/>
-    <rect x="316.82" y="50" width="3.31" height="8" fill="#89e051"/>
+    <rect x="25.00" y="50" width="260.69" height="8" fill="#e34c26"/>
+    <rect x="285.69" y="50" width="16.13" height="8" fill="#f1e05a"/>
+    <rect x="301.82" y="50" width="6.91" height="8" fill="#3572A5"/>
+    <rect x="308.73" y="50" width="4.23" height="8" fill="#00ADD8"/>
+    <rect x="312.96" y="50" width="3.87" height="8" fill="#41b883"/>
+    <rect x="316.83" y="50" width="3.30" height="8" fill="#89e051"/>
     <rect x="320.13" y="50" width="2.88" height="8" fill="#4F5D95"/>
     <rect x="323.01" y="50" width="2.00" height="8" fill="#663399"/>
   </g>
   <g transform="translate(25, 82)">
     <circle cx="5" cy="-4" r="5" fill="#e34c26"/>
-    <text x="16" y="0" class="lang">HTML <tspan class="pct">86.88%</tspan></text>
+    <text x="16" y="0" class="lang">HTML <tspan class="pct">86.90%</tspan></text>
   </g>
   <g transform="translate(175, 82)">
     <circle cx="5" cy="-4" r="5" fill="#f1e05a"/>
@@ -31,7 +31,7 @@
   </g>
   <g transform="translate(25, 107)">
     <circle cx="5" cy="-4" r="5" fill="#3572A5"/>
-    <text x="16" y="0" class="lang">Python <tspan class="pct">2.31%</tspan></text>
+    <text x="16" y="0" class="lang">Python <tspan class="pct">2.30%</tspan></text>
   </g>
   <g transform="translate(175, 107)">
     <circle cx="5" cy="-4" r="5" fill="#00ADD8"/>
