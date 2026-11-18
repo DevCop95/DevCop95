@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=EF4444&center=true&vCenter=true&width=640&lines=Colombian+Ethical+Hacker+%7C+Security+Researcher+%F0%9F%9B%A1%EF%B8%8F;LOLBAS+%C2%B7+Atomic+Red+Team+%C2%B7+LOLRMM+Contributor+%F0%9F%94%8E;Penetration+Tester+%40+Henkel+%F0%9F%9B%A1%EF%B8%8F;M.Sc.+in+AI+%E2%80%94+Universitat+de+Barcelona" alt="Typing SVG"/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dev101x.online-ef4444?style=flat-square&logo=googlechrome&logoColor=white)](https://dev101x.online/)
-[![LOLBAS Contributor](https://img.shields.io/badge/LOLBAS-Official_Contributor-00c466?style=flat-square&logo=github&logoColor=white)](https://github.com/LOLBAS-Project/LOLBAS/pull/525)
+[![LOLBAS Contributor](https://img.shields.io/badge/LOLBAS-Official_Contributor-00c466?style=flat-square&logo=github&logoColor=white)](https://github.com/LOLBAS-Project/LOLBAS/pulls?q=is%3Apr+author%3ADevCop95+is%3Amerged)
 [![Atomic Red Team Contributor](https://img.shields.io/badge/Atomic_Red_Team-Official_Contributor-d00000?style=flat-square&logo=github&logoColor=white)](https://github.com/redcanaryco/atomic-red-team/pulls?q=is%3Apr+author%3ADevCop95+is%3Amerged)
 [![LOLRMM Contributor](https://img.shields.io/badge/LOLRMM-Official_Contributor-0078D4?style=flat-square&logo=github&logoColor=white)](https://github.com/magicsword-io/LOLRMM/pull/253)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yared--dev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yared-dev)
@@ -40,17 +40,17 @@ dev101x@kali:~$ cat focus.txt
 ## 🛡️ Vulnerability Research & Official Contributions
 
 <div align="center">
-  <a href="https://github.com/LOLBAS-Project/LOLBAS/pull/525">
+  <a href="https://github.com/LOLBAS-Project/LOLBAS/pulls?q=is%3Apr+author%3ADevCop95+is%3Amerged">
     <img src="./assets/img/lolbas_devcop95_banner.jpg" alt="LOLBAS Contribution Banner" width="100%" />
   </a>
 </div>
 
-| Upstream Project | Technique & Emulation Scope | Pull Request | MITRE ATT&CK |
+| Upstream Project | Technique & Emulation Scope | Pull Requests | MITRE ATT&CK / Domain |
 |---|---|---|---|
-| 🛡️ [**LOLBAS Project · LOLBAS**](https://github.com/LOLBAS-Project/LOLBAS) | `Fsutil.exe` (`file createnew`) — Windows Defender Antivirus impairment via disk exhaustion | [![PR #525 Merged](https://img.shields.io/badge/PR_%23525-MERGED-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/LOLBAS-Project/LOLBAS/pull/525) | [T1685 (formerly T1562.001): Disable or Modify Tools](https://attack.mitre.org/techniques/T1685/) |
-| 🔴 [**Red Canary · Atomic Red Team**](https://github.com/redcanaryco/atomic-red-team) | Multi-platform KeePass discovery, config parsing (`KeePass.config.xml`) & exfiltration staging (PowerShell, CMD, Linux `sh`) | [![PR #3433 Merged](https://img.shields.io/badge/PR_%233433-MERGED-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/redcanaryco/atomic-red-team/pull/3433) | [T1555.005: Password Managers](https://attack.mitre.org/techniques/T1555/005/) |
-| 🔴 [**Red Canary · Atomic Red Team**](https://github.com/redcanaryco/atomic-red-team) | Windows Defender Antivirus impairment via `fsutil.exe file createnew` hidden GUID disk exhaustion in `%TEMP%` (BigDiskBuster telemetry) | [![PR #3439 Merged](https://img.shields.io/badge/PR_%233439-MERGED-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/redcanaryco/atomic-red-team/pull/3439) | [T1685 (formerly T1562.001): Disable or Modify Tools](https://attack.mitre.org/techniques/T1685/) |
-| 🗡️ [**magicsword-io · LOLRMM**](https://github.com/magicsword-io/LOLRMM) | AnyDesk custom per-org client coverage: service normalization, trace files (`ad_*`), EventLog 7045, and Sigma detection rules | [![PR #253 Merged](https://img.shields.io/badge/PR_%23253-MERGED-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/magicsword-io/LOLRMM/pull/253) | [T1219: Remote Access Software](https://attack.mitre.org/techniques/T1219/) |
+| 🛡️ [**LOLBAS Project · LOLBAS**](https://github.com/LOLBAS-Project/LOLBAS) | `Fsutil.exe` (`file createnew` Defender disk exhaustion) & `Ssh.exe` (`KnownHostsCommand` pre-auth / `PermitLocalCommand` post-auth execution) | [![3 PRs Merged](https://img.shields.io/badge/3_PRs-MERGED-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/LOLBAS-Project/LOLBAS/pulls?q=is%3Apr+author%3ADevCop95+is%3Amerged) | [T1685](https://attack.mitre.org/techniques/T1685/) · [T1202](https://attack.mitre.org/techniques/T1202/) |
+| 🔴 [**Red Canary · Atomic Red Team**](https://github.com/redcanaryco/atomic-red-team) | Multi-platform KeePass credential discovery/staging (`KeePass.config.xml`) & Windows Defender `%TEMP%` disk-exhaustion emulation | [![2 PRs Merged](https://img.shields.io/badge/2_PRs-MERGED-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/redcanaryco/atomic-red-team/pulls?q=is%3Apr+author%3ADevCop95+is%3Amerged) | [T1555.005](https://attack.mitre.org/techniques/T1555/005/) · [T1685](https://attack.mitre.org/techniques/T1685/) |
+| 🗡️ [**magicsword-io · LOLRMM**](https://github.com/magicsword-io/LOLRMM) | AnyDesk custom per-org client coverage (`ad_*`), service normalization, EventLog 7045 telemetry & Sigma detection rules | [![PR #253 Merged](https://img.shields.io/badge/PR_%23253-MERGED-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/magicsword-io/LOLRMM/pull/253) | [T1219](https://attack.mitre.org/techniques/T1219/) |
+| 🕵️ [**soxoj · maigret**](https://github.com/soxoj/maigret) | OSINT false-positive elimination across `Freelance.habr`, `Rlocman` (vBulletin) & `Starsonice`/`Terminatorium` (Strazh JS challenge) | [![3 PRs Merged](https://img.shields.io/badge/3_PRs-MERGED-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/soxoj/maigret/pulls?q=is%3Apr+author%3ADevCop95+is%3Amerged) | OSINT · Signal Integrity |
 
 ---
 
