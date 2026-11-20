@@ -3,7 +3,7 @@
 Why self-hosted SVGs instead of github-readme-stats Vercel mirrors:
 Public `.vercel.app` mirrors share a small pool of PATs and Vercel Hobby bandwidth,
 causing them to hit rate limits or go offline every ~10 days. By rendering the
-4 cards (`pin-bugbounty-lab101.svg`, `pin-shodan_reconsx.svg`, `github-stats.svg`,
+4 cards (`pin-bugbounty-lab101.svg`, `pin-BDB-Guardian.svg`, `github-stats.svg`,
 `top-langs.svg`) directly from the GitHub API inside GitHub Actions and storing
 them in `assets/stats/`, the profile README never depends on third-party mirrors
 and never displays broken images even if an API call transiently fails.
@@ -27,7 +27,7 @@ from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 README = Path("README.md")
 STATS_DIR = Path("assets/stats")
 USERNAME = "DevCop95"
-PINNED_REPOS = ["bugbounty-lab101", "shodan_reconsx"]
+PINNED_REPOS = ["bugbounty-lab101", "BDB-Guardian"]
 
 # Bucket the cache-buster to the cron window so manual re-dispatches inside the
 # same 6h window do not create pointless README commits.
