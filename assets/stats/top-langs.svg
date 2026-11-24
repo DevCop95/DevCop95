@@ -12,26 +12,26 @@
     </clipPath>
   </defs>
   <g clip-path="url(#bar-clip)">
-    <rect x="25.00" y="50" width="268.76" height="8" fill="#e34c26"/>
-    <rect x="293.76" y="50" width="14.12" height="8" fill="#f1e05a"/>
-    <rect x="307.88" y="50" width="7.56" height="8" fill="#3572A5"/>
-    <rect x="315.44" y="50" width="4.02" height="8" fill="#00ADD8"/>
-    <rect x="319.46" y="50" width="3.49" height="8" fill="#89e051"/>
-    <rect x="322.95" y="50" width="2.00" height="8" fill="#663399"/>
-    <rect x="324.95" y="50" width="2.00" height="8" fill="#012456"/>
-    <rect x="326.95" y="50" width="2.00" height="8" fill="#384d54"/>
+    <rect x="25.00" y="50" width="268.86" height="8" fill="#e34c26"/>
+    <rect x="293.86" y="50" width="14.08" height="8" fill="#f1e05a"/>
+    <rect x="307.94" y="50" width="7.53" height="8" fill="#3572A5"/>
+    <rect x="315.47" y="50" width="4.01" height="8" fill="#00ADD8"/>
+    <rect x="319.48" y="50" width="3.48" height="8" fill="#89e051"/>
+    <rect x="322.96" y="50" width="2.00" height="8" fill="#663399"/>
+    <rect x="324.96" y="50" width="2.00" height="8" fill="#012456"/>
+    <rect x="326.96" y="50" width="2.00" height="8" fill="#384d54"/>
   </g>
   <g transform="translate(25, 82)">
     <circle cx="5" cy="-4" r="5" fill="#e34c26"/>
-    <text x="16" y="0" class="lang">HTML <tspan class="pct">89.59%</tspan></text>
+    <text x="16" y="0" class="lang">HTML <tspan class="pct">89.62%</tspan></text>
   </g>
   <g transform="translate(175, 82)">
     <circle cx="5" cy="-4" r="5" fill="#f1e05a"/>
-    <text x="16" y="0" class="lang">JavaScript <tspan class="pct">4.71%</tspan></text>
+    <text x="16" y="0" class="lang">JavaScript <tspan class="pct">4.69%</tspan></text>
   </g>
   <g transform="translate(25, 107)">
     <circle cx="5" cy="-4" r="5" fill="#3572A5"/>
-    <text x="16" y="0" class="lang">Python <tspan class="pct">2.52%</tspan></text>
+    <text x="16" y="0" class="lang">Python <tspan class="pct">2.51%</tspan></text>
   </g>
   <g transform="translate(175, 107)">
     <circle cx="5" cy="-4" r="5" fill="#00ADD8"/>

@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yared--dev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yared-dev)
 [![X](https://img.shields.io/badge/@Devcop101-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Devcop101)
 [![Email](https://img.shields.io/badge/Email-yared.henriquezb-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yared.henriquezb@gmail.com)
-[![Profile views](https://komarev.com/ghpvc/?username=DevCop95&style=flat-square&color=ef4444&label=views&v=1795456800)](https://github.com/DevCop95)
+[![Profile views](https://komarev.com/ghpvc/?username=DevCop95&style=flat-square&color=ef4444&label=views&v=1795500000)](https://github.com/DevCop95)
 
 </div>
 
@@ -71,15 +71,15 @@ dev101x@kali:~$ cat focus.txt
 
 [![bugbounty-lab101](./assets/stats/pin-bugbounty-lab101.svg)](https://github.com/DevCop95/bugbounty-lab101)
 <br>
-[![bugbounty-lab101 Stars](https://img.shields.io/github/stars/DevCop95/bugbounty-lab101?style=for-the-badge&logo=github&label=Stars&labelColor=0d1117&color=ef4444&v=1795456800)](https://github.com/DevCop95/bugbounty-lab101/stargazers)
-[![bugbounty-lab101 Forks](https://img.shields.io/github/forks/DevCop95/bugbounty-lab101?style=for-the-badge&logo=github&label=Forks&labelColor=0d1117&color=494649&v=1795456800)](https://github.com/DevCop95/bugbounty-lab101/network/members)
+[![bugbounty-lab101 Stars](https://img.shields.io/github/stars/DevCop95/bugbounty-lab101?style=for-the-badge&logo=github&label=Stars&labelColor=0d1117&color=ef4444&v=1795500000)](https://github.com/DevCop95/bugbounty-lab101/stargazers)
+[![bugbounty-lab101 Forks](https://img.shields.io/github/forks/DevCop95/bugbounty-lab101?style=for-the-badge&logo=github&label=Forks&labelColor=0d1117&color=494649&v=1795500000)](https://github.com/DevCop95/bugbounty-lab101/network/members)
 
 <br>
 
 [![BDB-Guardian](./assets/stats/pin-BDB-Guardian.svg)](https://github.com/DevCop95/BDB-Guardian)
 <br>
-[![BDB-Guardian Stars](https://img.shields.io/github/stars/DevCop95/BDB-Guardian?style=for-the-badge&logo=github&label=Stars&labelColor=0d1117&color=ef4444&v=1795456800)](https://github.com/DevCop95/BDB-Guardian/stargazers)
-[![BDB-Guardian Forks](https://img.shields.io/github/forks/DevCop95/BDB-Guardian?style=for-the-badge&logo=github&label=Forks&labelColor=0d1117&color=494649&v=1795456800)](https://github.com/DevCop95/BDB-Guardian/network/members)
+[![BDB-Guardian Stars](https://img.shields.io/github/stars/DevCop95/BDB-Guardian?style=for-the-badge&logo=github&label=Stars&labelColor=0d1117&color=ef4444&v=1795500000)](https://github.com/DevCop95/BDB-Guardian/stargazers)
+[![BDB-Guardian Forks](https://img.shields.io/github/forks/DevCop95/BDB-Guardian?style=for-the-badge&logo=github&label=Forks&labelColor=0d1117&color=494649&v=1795500000)](https://github.com/DevCop95/BDB-Guardian/network/members)
 
 </div>
 
