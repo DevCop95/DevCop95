@@ -27,7 +27,7 @@ from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 README = Path("README.md")
 STATS_DIR = Path("assets/stats")
 USERNAME = "DevCop95"
-PINNED_REPOS = ["bugbounty-lab101", "BDB-Guardian"]
+PINNED_REPOS = ["bugbounty-lab101", "shodan_reconsx"]
 
 # Bucket the cache-buster to the cron window so manual re-dispatches inside the
 # same 6h window do not create pointless README commits.

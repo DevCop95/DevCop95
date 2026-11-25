@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yared--dev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yared-dev)
 [![X](https://img.shields.io/badge/@Devcop101-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Devcop101)
 [![Email](https://img.shields.io/badge/Email-yared.henriquezb-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yared.henriquezb@gmail.com)
-[![Profile views](https://komarev.com/ghpvc/?username=DevCop95&style=flat-square&color=ef4444&label=views&v=1795543200)](https://github.com/DevCop95)
+[![Profile views](https://komarev.com/ghpvc/?username=DevCop95&style=flat-square&color=ef4444&label=views&v=1795564800)](https://github.com/DevCop95)
 
 </div>
 
@@ -71,15 +71,15 @@ dev101x@kali:~$ cat focus.txt
 
 [![bugbounty-lab101](./assets/stats/pin-bugbounty-lab101.svg)](https://github.com/DevCop95/bugbounty-lab101)
 <br>
-[![bugbounty-lab101 Stars](https://img.shields.io/github/stars/DevCop95/bugbounty-lab101?style=for-the-badge&logo=github&label=Stars&labelColor=0d1117&color=ef4444&v=1795543200)](https://github.com/DevCop95/bugbounty-lab101/stargazers)
-[![bugbounty-lab101 Forks](https://img.shields.io/github/forks/DevCop95/bugbounty-lab101?style=for-the-badge&logo=github&label=Forks&labelColor=0d1117&color=494649&v=1795543200)](https://github.com/DevCop95/bugbounty-lab101/network/members)
+[![bugbounty-lab101 Stars](https://img.shields.io/github/stars/DevCop95/bugbounty-lab101?style=for-the-badge&logo=github&label=Stars&labelColor=0d1117&color=ef4444&v=1795564800)](https://github.com/DevCop95/bugbounty-lab101/stargazers)
+[![bugbounty-lab101 Forks](https://img.shields.io/github/forks/DevCop95/bugbounty-lab101?style=for-the-badge&logo=github&label=Forks&labelColor=0d1117&color=494649&v=1795564800)](https://github.com/DevCop95/bugbounty-lab101/network/members)
 
 <br>
 
-[![BDB-Guardian](./assets/stats/pin-BDB-Guardian.svg)](https://github.com/DevCop95/BDB-Guardian)
+[![shodan_reconsx](./assets/stats/pin-shodan_reconsx.svg)](https://github.com/DevCop95/shodan_reconsx)
 <br>
-[![BDB-Guardian Stars](https://img.shields.io/github/stars/DevCop95/BDB-Guardian?style=for-the-badge&logo=github&label=Stars&labelColor=0d1117&color=ef4444&v=1795543200)](https://github.com/DevCop95/BDB-Guardian/stargazers)
-[![BDB-Guardian Forks](https://img.shields.io/github/forks/DevCop95/BDB-Guardian?style=for-the-badge&logo=github&label=Forks&labelColor=0d1117&color=494649&v=1795543200)](https://github.com/DevCop95/BDB-Guardian/network/members)
+[![shodan_reconsx Stars](https://img.shields.io/github/stars/DevCop95/shodan_reconsx?style=for-the-badge&logo=github&label=Stars&labelColor=0d1117&color=ef4444&v=1795564800)](https://github.com/DevCop95/shodan_reconsx/stargazers)
+[![shodan_reconsx Forks](https://img.shields.io/github/forks/DevCop95/shodan_reconsx?style=for-the-badge&logo=github&label=Forks&labelColor=0d1117&color=494649&v=1795564800)](https://github.com/DevCop95/shodan_reconsx/network/members)
 
 </div>
 
@@ -156,13 +156,13 @@ dev101x@kali:~$ cat focus.txt
 <div align="center">
 
 <a href="https://profile.hackthebox.com/profile/019f8d0f-a8d2-73bb-8f12-d863b7261aa3">
-  <img src="assets/img/htb_stats.png" alt="dev101x on HackTheBox — Pro Hacker, Top 3 Colombia" width="640" />
+  <img src="assets/img/htb_stats.png" alt="dev101x on HackTheBox — Pro Hacker, Top 2 Colombia" width="640" />
 </a>
 
 <br>
 
 [![HTB Rank](https://img.shields.io/badge/Rank-Pro_Hacker-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=0d1117)](https://profile.hackthebox.com/profile/019f8d0f-a8d2-73bb-8f12-d863b7261aa3)
-[![HTB Country Ranking](https://img.shields.io/badge/Colombia-Top_3-ef4444?style=for-the-badge&labelColor=0d1117)](https://profile.hackthebox.com/profile/019f8d0f-a8d2-73bb-8f12-d863b7261aa3)
+[![HTB Country Ranking](https://img.shields.io/badge/Colombia-Top_2-ef4444?style=for-the-badge&labelColor=0d1117)](https://profile.hackthebox.com/profile/019f8d0f-a8d2-73bb-8f12-d863b7261aa3)
 [![HTB Profile](https://img.shields.io/badge/View_live_profile-dev101x-494649?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=0d1117)](https://profile.hackthebox.com/profile/019f8d0f-a8d2-73bb-8f12-d863b7261aa3)
 
 <sub>Snapshot from November 2026 · click the card for live stats</sub>
